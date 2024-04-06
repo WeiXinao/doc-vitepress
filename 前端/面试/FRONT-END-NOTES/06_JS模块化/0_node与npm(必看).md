@@ -9,17 +9,17 @@
 	而且如果我们要用的模块A，而模块A又依赖模块B，模块B又依赖模块C和D，那么npm会根据依赖关系，把所有依赖的包都下载下来并且管理起来。
 > 1.npm全称：Node package manager(Node包管理器)，安装了Node就自动安装好了npm。
 > 2.包（库、项目）：电脑上的一个普通文件夹，包含了package.json，就变成了一个符合npm规范的包。
-> 3.使用命令：```npm init ```把一个普通的文件夹变成一个包，即自动生成package.json
+> 3.使用命令：`npm init`把一个普通的文件夹变成一个包，即自动生成package.json
 
 
-查看自己node的版本命令：```node -v```
-查看自己npm的版本命令：```npm -v```
+查看自己node的版本命令：`node -v`
+查看自己npm的版本命令：`npm -v`
 
 【版本要求】：
 1. node版本：最低是10
 2. npm版本：最低是6
 3. <font color=red>为了让你的npm下载东西更迅速，请务必执行以下命令！！！（后期会讲解该命令的含义）</font>
-```npm config set registry http://registry.npm.taobao.org/```
+`npm config set registry http://registry.npm.taobao.org/`
    
 ### 3.包名的要求：
 > 不能有中文
@@ -27,8 +27,8 @@
 不能与npm上已经存在的包重名，例如：(axios、jquery、less等)
 
 ### 4.安装一个包的命令
-```npm install xxxx```
+`npm install xxxx`
 
 ```简写：npm i xxxx```
 
-```npm install```下载对应package.json文件中所有依赖的包。
+`npm install`下载对应package.json文件中所有依赖的包。

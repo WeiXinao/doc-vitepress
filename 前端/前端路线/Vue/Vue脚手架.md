@@ -198,7 +198,7 @@
 
 5. 解绑自定义事件```this.$off('atguigu')```
 
-6. 组件上也可以绑定原生DOM事件，需要使用```native```修饰符。
+6. 组件上也可以绑定原生DOM事件，需要使用`native`修饰符。
 
 7. 注意：通过```this.$refs.xxx.$on('atguigu',回调)```绑定自定义事件时，回调<span style="color:red">要么配置在methods中</span>，<span style="color:red">要么用箭头函数</span>，否则this指向会出问题！
 
@@ -246,9 +246,9 @@
 
 2. 使用步骤：
 
-   1. 安装pubsub：```npm i pubsub-js```
+   1. 安装pubsub：`npm i pubsub-js`
 
-   2. 引入: ```import pubsub from 'pubsub-js'```
+   2. 引入: `import pubsub from 'pubsub-js'`
 
    3. 接收数据：A组件想接收数据，则在A组件中订阅消息，订阅的<span style="color:red">回调留在A组件自身。</span>
 
@@ -764,7 +764,7 @@ module.exports = {
 
 #### 1.1 步骤 
 
-1. 安装vue-router，命令：```npm i vue-router```
+1. 安装vue-router，命令：`npm i vue-router`
 
 2. 应用插件：```Vue.use(VueRouter)```
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/扩展/常用模块.md",
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/扩展/常用模块.md",
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/扩展/常用模块.md"
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md"
               }
             }
           }
@@ -170,6 +170,9 @@
   },
   "active": "c14147139a7f8897",
   "lastOpenFiles": [
+    "前端/面试/FRONT-END-NOTES/06_JS模块化/0_node与npm(必看).md",
+    "前端/前端路线/Vue/Vue脚手架.md",
+    "前端/扩展/常用模块.md",
     "前端/面试/JavaScript面试题/JavaScript面试题.md",
     "前端/前端路线/Node.js/Express.md",
     "前端/前端路线/Node.js/Node.js.md",
@@ -193,9 +196,6 @@
     "others/书籍推荐.md",
     "OperatingSystem/第一章-操作系统概述.md",
     "OperatingSystem/第三章-内存管理.md",
-    "OperatingSystem/第二章-进程管理.md",
-    "NoSQL/Redis 基础.md",
-    "NoSQL/MongoDB_Index.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
