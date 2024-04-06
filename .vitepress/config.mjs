@@ -6,10 +6,11 @@ import sidebar from './sidebar.mjs'
 export default defineConfig({
   title: "小新的博客",
   description: "A VitePress Site",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  base: './',
+  head: [['link', { rel: 'icon', href: '/public/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/favicon.ico',
+    logo: '/public/favicon.ico',
     search: {
       provider: 'local'
     },  
