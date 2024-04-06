@@ -1,1 +1,0 @@
-**C/C++整行读入字符串：**[C/C++如何整行读入字符串？ - 莫瑞 - 博客园 (cnblogs.com)](https://www.cnblogs.com/morui/p/11046579.html)
