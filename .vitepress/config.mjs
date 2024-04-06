@@ -5,7 +5,7 @@ import sidebar from './sidebar.mjs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "小新的博客",
-  description: "A VitePress Site",
+  // description: "A VitePress Site",
   base: '/doc-vitepress/',
   srcDir: 'docs',
   head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
