@@ -5,7 +5,7 @@ export default {
       items: [
         { text: '基础语法', link: '/Golang/Go基础' },
         { text: 'GoWeb基础', link: '/Golang/GoWeb' },
-        { text: '正则表达式', link: '/Golang/Go基础之正则表达式' }
+        { text: '爬虫', link: '/docs/Golang/Go爬虫' }
       ]
     }
   ],
