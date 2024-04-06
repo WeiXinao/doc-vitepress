@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C&C++/C++PrimerPlus.md",
+                "file": "前端/扩展/常用模块.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C&C++/C++PrimerPlus.md",
+                "file": "前端/扩展/常用模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C&C++/C++PrimerPlus.md"
+                "file": "前端/扩展/常用模块.md"
               }
             }
           }
@@ -170,6 +170,13 @@
   },
   "active": "c14147139a7f8897",
   "lastOpenFiles": [
+    "前端/面试/JavaScript面试题/JavaScript面试题.md",
+    "前端/前端路线/Node.js/Express.md",
+    "前端/前端路线/Node.js/Node.js.md",
+    "前端/面试/CSS面试题/CSS面试题.md",
+    "前端/面试/计算机网络/HTTP.md",
+    "DesignPattern/设计模式.md",
+    "C&C++/C++PrimerPlus.md",
     "Web/Web开发之HTTPS证书校验.md",
     "Tools/hexo博客搭建.md",
     "Tools/AWS个人信息.md",
@@ -189,13 +196,6 @@
     "OperatingSystem/第二章-进程管理.md",
     "NoSQL/Redis 基础.md",
     "NoSQL/MongoDB_Index.md",
-    "Golang/GoWeb.md",
-    "Golang/Go爬虫.md",
-    "Golang/Go面试代码题.md",
-    "Golang/Go基础之slice扩容机制.md",
-    "Golang/Go基础之return和defer.md",
-    "Golang/Go基础之正则表达式.md",
-    "Golang/Go基础之文件与IO操作.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
