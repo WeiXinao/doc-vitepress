@@ -155,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -165,7 +164,8 @@
       "audio-recorder:开始/结束录音": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-bookmaster-plugin:Book Explorer": false
+      "obsidian-bookmaster-plugin:Book Explorer": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "c14147139a7f8897",
@@ -217,6 +217,4 @@
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230916225526_807.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/资本主义的本质及规律.excalidraw.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/第三章-认识论.excalidraw.png",
-    "考研+学校/政治/Excalidraw/马克思主义基本原理/Drawing 2023-09-16 21.05.25.excalidraw.png"
-  ]
-}
+    "考研+学校/
