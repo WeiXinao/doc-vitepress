@@ -8,10 +8,10 @@ export default defineConfig({
   description: "A VitePress Site",
   base: '/doc-vitepress/',
   srcDir: 'docs',
-  head: [['link', { rel: 'icon', href: 'docs/public/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'public/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'docs/public/favicon.ico',
+    logo: 'public/favicon.ico',
     search: {
       provider: 'local'
     },  
