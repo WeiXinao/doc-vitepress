@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/Redis 基础.md",
+                "file": "Golang/Go基础之return和defer.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f35fd0cdf144462",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.cnblogs.com/saryli/p/11371912.html#:~:text=Go 中 defer 和,return 执行的先后顺序 多个defer的执行顺序为“后进先出”； defer、return、返回值三者的执行逻辑应该是：return最先执行，return负责将结果写入返回值中；接着defer开始执行一些收尾工作；最后函数携带当前返回值退出。"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/Redis 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NoSQL/Redis 基础.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,11 +175,16 @@
       "obsidian-bookmaster-plugin:Book Explorer": false
     }
   },
-  "active": "55b2d6b7bc06fa8b",
+  "active": "5f35fd0cdf144462",
   "lastOpenFiles": [
+    "Golang/Go基础之return和defer.md",
+    "Golang/Go基础之正则表达式.md",
+    "Golang/Go基础之slice扩容机制.md",
+    "Golang/Go面试代码题.md",
+    "Golang/Go爬虫.md",
+    "NoSQL/Redis 基础.md",
     "favicon.ico",
     "Golang/Go基础.md",
-    "NoSQL/Redis 基础.md",
     "Web/Web开发之HTTPS证书校验.md",
     "读书笔记/Let's Go!.md",
     "logo.jpg",
@@ -181,16 +194,11 @@
     "Golang/xmind/数据类型.xmind",
     "Golang/稍后阅读.md",
     "Golang/xmind",
-    "Golang/Go面试代码题.md",
-    "Golang/Go爬虫.md",
     "Golang/Go基础之返回值寻址.md",
     "Golang/Go基础之结构体.md",
-    "Golang/Go基础之正则表达式.md",
     "Golang/Go基础之文件与IO操作.md",
     "Golang/Go基础之包.md",
     "Golang/Go基础之命名返回值.md",
-    "Golang/Go基础之slice扩容机制.md",
-    "Golang/Go基础之return和defer.md",
     "Golang/GoWeb.md",
     "Golang/Go 基础之读锁写锁问题.md",
     "Golang",
@@ -208,7 +216,6 @@
     "assets/bookmaster/book-annotations/oYyFBAXQjRHEoZVz.xml",
     "assets/bookmaster/book-annotations/gNZeRcxcHTYvWxQm.xml",
     "assets/bookmaster/book-annotations/BdBfSmPfuAscUeLw.xml",
-    "assets/bookmaster/book-annotations",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214745_092.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214709_019.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214639_016.png",
