@@ -63,7 +63,7 @@ CommonJS是唯一的双端模块化规范
       console.log('bar()  module3');
     }
     ```
-  * 下载第三方模块uniq：打开左下角的Terminal，cd到02_CommonJS-Node路径，输入命令：```npm install uniq```
+  * 下载第三方模块uniq：打开左下角的Terminal，cd到02_CommonJS-Node路径，输入命令：`npm install uniq`
 
   * app.js 
     ```js

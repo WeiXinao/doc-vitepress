@@ -46,7 +46,7 @@
       console.log('module3 bar()')
     }
     ```
-  * 下载第三方模块uniq：打开左下角的Terminal，cd到02_CommonJS-Node路径，输入命令：```npm install uniq --save```
+  * 下载第三方模块uniq：打开左下角的Terminal，cd到02_CommonJS-Node路径，输入命令：`npm install uniq --save`
   
   * app.js
     ```js
@@ -67,7 +67,7 @@
     ```
 
 ### 3. 下载browserify(用于把CommonJS的模块化语法，翻译成浏览器认识的语法，是一个“翻译官”)
-  * 全局安装browserify，命令: ```npm install browserify -g```
+  * 全局安装browserify，命令: `npm install browserify -g`z
     备注：若此步骤报错，请使用管理员身份打开webstorm，再次执行即可；或使用管理员身份打开cmd执行。
 
 ### 4. 执行处理命令

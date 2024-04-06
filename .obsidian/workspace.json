@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md"
+                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "c14147139a7f8897",
   "lastOpenFiles": [
+    "前端/面试/FRONT-END-NOTES/06_JS模块化/3_CommonJS-Browserify模块化教程.md",
+    "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/0_node与npm(必看).md",
     "前端/前端路线/Vue/Vue脚手架.md",
     "前端/扩展/常用模块.md",
@@ -194,8 +196,6 @@
     "PrinciplesOfComputerComposition/第二章 数据的表示.md",
     "others/Xeno Link 导入 Clash for Windows.md",
     "others/书籍推荐.md",
-    "OperatingSystem/第一章-操作系统概述.md",
-    "OperatingSystem/第三章-内存管理.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
