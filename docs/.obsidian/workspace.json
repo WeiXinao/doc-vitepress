@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b70cc2825f3fc0df",
+        "id": "2435688dc08783bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6c44be4ddd370a4f",
+            "id": "d2b9c29f3509cbf9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "docs/.obsidian/themes/AnuPpuccin",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +160,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c44be4ddd370a4f",
+  "active": "4f3dc7072644b5fe",
   "lastOpenFiles": [
     "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试/Panic时返回错误.md",

@@ -16,8 +16,11 @@
     },
     "8620a1a4e649d16b": {
       "deviceName": "",
-      "bookVaultPaths": {},
-      "bookViewerWorkerPath": "http://127.0.0.1/bookviewer"
+      "bookVaultPaths": {
+        "01": "E:\\ebook",
+        "00": "E:\\ebook"
+      },
+      "bookViewerWorkerPath": "http://121.36.215.20/bookviewer"
     }
   },
   "dataPath": "assets/bookmaster",
@@ -45,7 +48,8 @@
   "openAllBookWithDefaultApp": false,
   "openBookExtsWithDefaultApp": [],
   "bookVaultNames": {
-    "00": "ebook"
+    "00": "ebook",
+    "01": "ebook"
   },
   "currentBookVault": "00",
   "bookTreeSortType": "PATH",
