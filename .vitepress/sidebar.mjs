@@ -3,11 +3,22 @@ export default {
     {
       text: 'Golang',
       items: [
-        { text: '基础语法', link: '/Golang/Go基础' },
-        { text: 'GoWeb基础', link: '/Golang/GoWeb' },
-        { text: '爬虫', link: '/Golang/Go爬虫' },
-        { text: '正则表达式', link: '/Golang/Go基础之正则表达式' }
-      ]
+      {
+        text: '基础',
+        items: [
+            { text: '基础语法', link: '/Golang/基础/Go基础' },
+            { text: 'GoWeb基础', link: '/Golang/基础/GoWeb' },
+            { text: '爬虫', link: '/Golang/基础/Go爬虫' },
+            { text: '正则表达式', link: '/Golang/基础/Go基础之正则表达式' }
+          ]
+        }, 
+        {
+          text: '面试',
+          items: [
+            { text: 'panic时返回错误', link: '/Golang/面试/Panic时返回错误' }
+          ]
+        }
+      ] 
     }
   ],
   "/Web/": [
