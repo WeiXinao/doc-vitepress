@@ -23,94 +23,94 @@
 
    1. 以 132 开头
 
-   ```go
-   var pattern string = "^132" // 以 132 开头
-   
-   // . 任意
-   // \d 数字	\D 非数字
-   // \w 数字，大小写英文字母 _
-   // \S 非空白字符	\s 空白字符
-   // \d 数字 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 0|1|2|3|4|5|6|7|8|9 [0-9][0123456789]
-   // [a-z] /a, -, z/ [a\-z]
-   // [^a-z] 取反
-   // ? 0个或1个
-   // + 至少1个
-   // * 任意多个
-   // {n,m} 字符数量 >= n 且 <= m
-   fmt.Println(regexp.MatchString(pattern, "132xxxxx")) // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "122xxxxx")) // false <nil>
-   ```
+```go
+var pattern string = "^132" // 以 132 开头
+
+// . 任意
+// \d 数字	\D 非数字
+// \w 数字，大小写英文字母 _
+// \S 非空白字符	\s 空白字符
+// \d 数字 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 0|1|2|3|4|5|6|7|8|9 [0-9][0123456789]
+// [a-z] /a, -, z/ [a\-z]
+// [^a-z] 取反
+// ? 0个或1个
+// + 至少1个
+// * 任意多个
+// {n,m} 字符数量 >= n 且 <= m
+fmt.Println(regexp.MatchString(pattern, "132xxxxx")) // true <nil>
+fmt.Println(regexp.MatchString(pattern, "122xxxxx")) // false <nil>
+```
 
    2. 以 132 开头的电话号码 以 132 开头，都是数字，长度为11位
 
-   ```go
-   // 以 132 开头的电话号码 以 132 开头，都是数字，长度为11位 [0-9]
-   // ^123\d{8}
-   pattern = "^132\\d{8}$"
-   fmt.Println(regexp.MatchString(pattern, "132xxxx"))      // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "132123123"))    // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "13212312323"))  // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "13212312323x")) // false <nil>
-   ```
+```go
+// 以 132 开头的电话号码 以 132 开头，都是数字，长度为11位 [0-9]
+// ^123\d{8}
+pattern = "^132\\d{8}$"
+fmt.Println(regexp.MatchString(pattern, "132xxxx"))      // false <nil>
+fmt.Println(regexp.MatchString(pattern, "132123123"))    // false <nil>
+fmt.Println(regexp.MatchString(pattern, "13212312323"))  // true <nil>
+fmt.Println(regexp.MatchString(pattern, "13212312323x")) // false <nil>
+```
 
    3. 132 或 158 开头的电话号码
 
-   ```
-   132 或 158 开头的电话号码
-   1[35][28] 132 138 152 158
-   分组 ()
-   (132)|(158)[0-9]{8}$
-   ```
+```
+132 或 158 开头的电话号码
+1[35][28] 132 138 152 158
+分组 ()
+(132)|(158)[0-9]{8}$
+```
 
    4. 邮箱格式
 
-   ```go
-   邮箱格式
-   xxxx@xxx.xx
-   xxxx（@之前） 数字、大小写、英文字母组成 长度 1-32 个字符
-   xxx（.之前）  小写英文组成 长度为 1-12 字符组成
-   xx（.之后）edu
-   ```
+```
+邮箱格式
+xxxx@xxx.xx
+xxxx（@之前） 数字、大小写、英文字母组成 长度 1-32 个字符
+xxx（.之前）  小写英文组成 长度为 1-12 字符组成
+xx（.之后）edu 
+```
 
-   ```go
-   // 邮箱格式
-   // xxxx@xxx.xx
-   // xxxx（@之前） 数字、大小写、英文字母组成 长度 1-32 个字符
-   // xxx（.之前）  小写英文组成 长度为 1-12 字符组成
-   // xx（.之后）edu
-   // ^[0-9A-Za-z]{1,32}@[a-z]{1,12}\.edu$
-   
-   fmt.Println("----email----")
-   // [.]
-   pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}.edu"
-   fmt.Println(regexp.MatchString(pattern, "a@b.edu"))  // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@1.edu"))  // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "?@b.edu"))  // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@bxedu"))  // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@b.edux")) // true <nil>
-   
-   fmt.Println("---------")
-   pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}[.]edu"
-   fmt.Println(regexp.MatchString(pattern, "a@b.edu"))  // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@1.edu"))  // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "?@b.edu"))  // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@bxedu"))  // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@b.edux")) // true <nil>
-   
-   fmt.Println("---------")
-   pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}[.]edu$"
-   fmt.Println(regexp.MatchString(pattern, "a@b.edu"))    // true <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@1.edu"))    // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "?@b.edu"))    // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "a@bxedu"))    // false <nil>
-   fmt.Println(regexp.MatchString(pattern, "我是a@b.edux")) // false <nil>
-   
-   fmt.Println(regexp.QuoteMeta(pattern)) // \^\[0-9A-Za-z\]\{1,32\}@\[a-z\]\{1,12\}\[\.\]edu\$
-   pattern = regexp.QuoteMeta("^ab")
-   fmt.Println(regexp.MatchString(pattern, "ab"))  // false <nil>
-   fmt.Println(pattern)                            // \^ab
-   fmt.Println(regexp.MatchString(pattern, "^ab")) // true <nil>
-   ```
+```go
+// 邮箱格式
+// xxxx@xxx.xx
+// xxxx（@之前） 数字、大小写、英文字母组成 长度 1-32 个字符
+// xxx（.之前）  小写英文组成 长度为 1-12 字符组成
+// xx（.之后）edu
+// ^[0-9A-Za-z]{1,32}@[a-z]{1,12}\.edu$
+
+fmt.Println("----email----")
+// [.]
+pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}.edu"
+fmt.Println(regexp.MatchString(pattern, "a@b.edu"))  // true <nil>
+fmt.Println(regexp.MatchString(pattern, "a@1.edu"))  // false <nil>
+fmt.Println(regexp.MatchString(pattern, "?@b.edu"))  // false <nil>
+fmt.Println(regexp.MatchString(pattern, "a@bxedu"))  // true <nil>
+fmt.Println(regexp.MatchString(pattern, "a@b.edux")) // true <nil>
+
+fmt.Println("---------")
+pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}[.]edu"
+fmt.Println(regexp.MatchString(pattern, "a@b.edu"))  // true <nil>
+fmt.Println(regexp.MatchString(pattern, "a@1.edu"))  // false <nil>
+fmt.Println(regexp.MatchString(pattern, "?@b.edu"))  // false <nil>
+fmt.Println(regexp.MatchString(pattern, "a@bxedu"))  // false <nil>
+fmt.Println(regexp.MatchString(pattern, "a@b.edux")) // true <nil>
+
+fmt.Println("---------")
+pattern = "^[0-9A-Za-z]{1,32}@[a-z]{1,12}[.]edu$"
+fmt.Println(regexp.MatchString(pattern, "a@b.edu"))    // true <nil>
+fmt.Println(regexp.MatchString(pattern, "a@1.edu"))    // false <nil>
+fmt.Println(regexp.MatchString(pattern, "?@b.edu"))    // false <nil>
+fmt.Println(regexp.MatchString(pattern, "a@bxedu"))    // false <nil>
+fmt.Println(regexp.MatchString(pattern, "我是a@b.edux")) // false <nil>
+
+fmt.Println(regexp.QuoteMeta(pattern)) // \^\[0-9A-Za-z\]\{1,32\}@\[a-z\]\{1,12\}\[\.\]edu\$
+pattern = regexp.QuoteMeta("^ab")
+fmt.Println(regexp.MatchString(pattern, "ab"))  // false <nil>
+fmt.Println(pattern)                            // \^ab
+fmt.Println(regexp.MatchString(pattern, "^ab")) // true <nil>
+```
 
 2. 构建 Regexp 结构体
 
@@ -168,22 +168,22 @@ fmt.Println(reg.Split("我的电话是13212312213,13212312212,15812312213:xxxx:y
 package main
 
 import (
-	"fmt"
-	"regexp"
+"fmt"
+"regexp"
 )
 
 func main() {
-	// 贪婪模式 匹配最大的范围
-	reg, _ := regexp.Compile("[ab0-9]+")
-	fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a23 b3456]
+// 贪婪模式 匹配最大的范围
+reg, _ := regexp.Compile("[ab0-9]+")
+fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a23 b3456]
 
-	// 定义非贪婪模式 匹配最小的范围
-	reg, _ = regexp.Compile("(?U)[ab0-9]+")
-	fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a 2 3 b 3 4 5 6]
+// 定义非贪婪模式 匹配最小的范围
+reg, _ = regexp.Compile("(?U)[ab0-9]+")
+fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a 2 3 b 3 4 5 6]
 
-	// 将非贪婪模式转化为贪婪模式
-	reg.Longest()
-	fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a23 b3456]
+// 将非贪婪模式转化为贪婪模式
+reg.Longest()
+fmt.Println(reg.FindAllString("0-a23-b3456", -1)) // [0 a23 b3456]
 }
 ```
 

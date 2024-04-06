@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53e7ee2825e8a8e9",
+        "id": "9a5fd6ec002f47e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5367f72ddbdefe",
+            "id": "6f65ded6cd8f043b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Golang/面试/Go面试代码题.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Golang/面试/Go面试代码题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Golang/面试/Go面试代码题.md"
               }
             }
           }
@@ -168,12 +168,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac5367f72ddbdefe",
+  "active": "ce2c0fec2d9e2d17",
   "lastOpenFiles": [
-    "Golang/Go基础之正则表达式.md",
+    "Golang/面试",
+    "Golang/基础/Go基础之slice扩容机制.md",
+    "Golang/面试/Go面试代码题.md",
+    "Golang/基础",
+    "Golang/基础/Go基础之正则表达式.md",
+    "index.md",
     "public/favicon.ico",
     "public",
-    "index.md",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
     "docs",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/3_CommonJS-Browserify模块化教程.md",
@@ -196,8 +200,6 @@
     "Tools/前端开发库总结.md",
     "Tips/广州橙阳信息有限公司.md",
     "Tips/电脑配置单.md",
-    "PrinciplesOfComputerComposition/第四章-指令系统.md",
-    "PrinciplesOfComputerComposition/第三章-存储系统.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
@@ -209,7 +211,6 @@
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Excalidraw/Redis",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214745_092.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214709_019.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214639_016.png",
