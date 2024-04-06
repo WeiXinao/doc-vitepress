@@ -16,7 +16,7 @@
   "showCreateButton": false,
   "highlight": true,
   "showPreviousQueryResults": true,
-  "simpleSearch": false,
+  "simpleSearch": true,
   "fuzziness": "1",
   "weightBasename": 3,
   "weightDirectory": 2,
