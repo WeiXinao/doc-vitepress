@@ -11,8 +11,12 @@
             "id": "38fa02816f295bd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Go基础之正则表达式.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang/Go基础之正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang/Go基础之正则表达式.md"
+              }
             }
           }
         ],
@@ -161,7 +168,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "851dc8fb870a9a9a",
+  "active": "38fa02816f295bd2",
   "lastOpenFiles": [
     "Golang/Go基础之正则表达式.md",
     "index.md",
