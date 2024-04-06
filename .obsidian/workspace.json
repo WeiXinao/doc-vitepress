@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f54911b28283546d",
+        "id": "ebcc6f812dd06b78",
         "type": "tabs",
         "children": [
           {
-            "id": "96cb6dc1c3b8be86",
+            "id": "c14147139a7f8897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PrinciplesOfComputerComposition/第四章-指令系统.md",
+                "file": "C&C++/C++PrimerPlus.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PrinciplesOfComputerComposition/第四章-指令系统.md",
+                "file": "C&C++/C++PrimerPlus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PrinciplesOfComputerComposition/第四章-指令系统.md"
+                "file": "C&C++/C++PrimerPlus.md"
               }
             }
           }
@@ -168,40 +168,42 @@
       "obsidian-bookmaster-plugin:Book Explorer": false
     }
   },
-  "active": "96cb6dc1c3b8be86",
+  "active": "c14147139a7f8897",
   "lastOpenFiles": [
-    "读书笔记/Let's Go!.md",
-    "PrinciplesOfComputerComposition/第五章-中央处理器.md",
-    "PrinciplesOfComputerComposition/第四章-指令系统.md",
-    "Golang/Go基础之return和defer.md",
-    "NoSQL/MongoDB_Index.md",
-    "Golang/Go基础之正则表达式.md",
-    "Golang/Go基础之slice扩容机制.md",
-    "Golang/Go面试代码题.md",
-    "Golang/Go爬虫.md",
-    "NoSQL/Redis 基础.md",
-    "favicon.ico",
-    "Golang/Go基础.md",
     "Web/Web开发之HTTPS证书校验.md",
+    "Tools/hexo博客搭建.md",
+    "Tools/AWS个人信息.md",
+    "Tools/API总结.md",
+    "Tools/数据库配置.md",
+    "Tools/前端开发库总结.md",
+    "Tips/广州橙阳信息有限公司.md",
+    "Tips/电脑配置单.md",
+    "PrinciplesOfComputerComposition/第四章-指令系统.md",
+    "PrinciplesOfComputerComposition/第三章-存储系统.md",
+    "PrinciplesOfComputerComposition/第六章-总线.md",
+    "PrinciplesOfComputerComposition/第二章 数据的表示.md",
+    "others/Xeno Link 导入 Clash for Windows.md",
+    "others/书籍推荐.md",
+    "OperatingSystem/第一章-操作系统概述.md",
+    "OperatingSystem/第三章-内存管理.md",
+    "OperatingSystem/第二章-进程管理.md",
+    "NoSQL/Redis 基础.md",
+    "NoSQL/MongoDB_Index.md",
+    "Golang/GoWeb.md",
+    "Golang/Go爬虫.md",
+    "Golang/Go面试代码题.md",
+    "Golang/Go基础之slice扩容机制.md",
+    "Golang/Go基础之return和defer.md",
+    "Golang/Go基础之正则表达式.md",
+    "Golang/Go基础之文件与IO操作.md",
+    "Android/assets/通讯录1.gif",
+    "前端/Excelidraw/路由守卫.excalidraw",
+    "favicon.ico",
     "logo.jpg",
-    "index.md",
-    "JavaEE/腾讯云部署Tomcat.md",
     "Golang/xmind/web开发.xmind",
     "Golang/xmind/数据类型.xmind",
-    "Golang/稍后阅读.md",
     "Golang/xmind",
-    "Golang/Go基础之返回值寻址.md",
-    "Golang/Go基础之结构体.md",
-    "Golang/Go基础之文件与IO操作.md",
-    "Golang/Go基础之包.md",
-    "Golang/Go基础之命名返回值.md",
-    "Golang/GoWeb.md",
-    "Golang/Go 基础之读锁写锁问题.md",
     "Golang",
-    "前端/面试/FRONT-END-NOTES/14_vue/01_vue基础知识.md",
-    "前端/前端路线/Vue/Vue3进阶.md",
-    "前端/面试/FRONT-END-NOTES/04_JS高级/03_对象高级.md",
-    "前端/面试/FRONT-END-NOTES/14_vue/04_vue组件化.md",
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
@@ -209,14 +211,12 @@
     "Web",
     "assets/bookmaster/book-annotations/oYyFBAXQjRHEoZVz.xml",
     "assets/bookmaster/book-annotations/gNZeRcxcHTYvWxQm.xml",
-    "assets/bookmaster/book-annotations/BdBfSmPfuAscUeLw.xml",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214745_092.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214709_019.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214639_016.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230916225526_807.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/资本主义的本质及规律.excalidraw.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/第三章-认识论.excalidraw.png",
-    "考研+学校/政治/Excalidraw/马克思主义基本原理/Drawing 2023-09-16 21.05.25.excalidraw.png",
-    "考研+学校/政治/Excalidraw/马克思主义基本原理/05.两大在特征.excalidraw.png"
+    "考研+学校/政治/Excalidraw/马克思主义基本原理/Drawing 2023-09-16 21.05.25.excalidraw.png"
   ]
 }
