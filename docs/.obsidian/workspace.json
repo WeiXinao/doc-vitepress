@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a1eb86a995f01eb8",
+        "id": "d75de36625e10928",
         "type": "tabs",
         "children": [
           {
-            "id": "db1b877453a1a4ca",
+            "id": "4a8750e1b6e2b945",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "docs/.obsidian/themes/AnuPpuccin",
+                "staged": false
+              }
             }
           }
         ]
@@ -161,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db1b877453a1a4ca",
+  "active": "4a8750e1b6e2b945",
   "lastOpenFiles": [
     "Golang/Go基础之正则表达式.md",
     "index.md",
