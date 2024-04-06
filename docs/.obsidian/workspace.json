@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5fd6ec002f47e3",
+        "id": "b70cc2825f3fc0df",
         "type": "tabs",
         "children": [
           {
-            "id": "6f65ded6cd8f043b",
+            "id": "6c44be4ddd370a4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang/面试/Go面试代码题.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/面试/Go面试代码题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Golang/面试/Go面试代码题.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,11 +161,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce2c0fec2d9e2d17",
+  "active": "6c44be4ddd370a4f",
   "lastOpenFiles": [
+    "Golang/面试/Panic时返回错误.md",
     "Golang/面试",
     "Golang/基础/Go基础之slice扩容机制.md",
-    "Golang/面试/Go面试代码题.md",
     "Golang/基础",
     "Golang/基础/Go基础之正则表达式.md",
     "index.md",
@@ -207,7 +200,6 @@
     "Golang/xmind/web开发.xmind",
     "Golang/xmind/数据类型.xmind",
     "Golang/xmind",
-    "Golang",
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
     "未命名.canvas",

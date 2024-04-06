@@ -65,7 +65,7 @@ fmt.Println("getSum02:", getSum02(num1, num2)) // getSum02: 3
 
 场景一：返回 recover 捕获的错误
 
-[Go面试代码题](../面试/Go面试代码题.md)
+[Panic时返回错误](../面试/Panic时返回错误.md)
 
 场景二：返回匿名函数中的错误
 
