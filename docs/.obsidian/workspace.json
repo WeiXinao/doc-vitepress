@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2435688dc08783bc",
+        "id": "8c298e5a6a890515",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b9c29f3509cbf9",
+            "id": "1ca060abec61fc17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL/Redis 基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NoSQL/Redis 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NoSQL/Redis 基础.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,14 +168,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "851dc8fb870a9a9a",
+  "active": "1ca060abec61fc17",
   "lastOpenFiles": [
+    "NoSQL/Redis 基础.md",
+    "index.md",
+    "Golang/基础/Go基础.md",
+    "Golang/基础/Go 基础之读锁写锁问题.md",
     "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试/Panic时返回错误.md",
     "Golang/面试",
     "Golang/基础/Go基础之slice扩容机制.md",
     "Golang/基础",
-    "index.md",
     "public/favicon.ico",
     "public",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
@@ -190,8 +201,6 @@
     "Tools/API总结.md",
     "Tools/数据库配置.md",
     "Tools/前端开发库总结.md",
-    "Tips/广州橙阳信息有限公司.md",
-    "Tips/电脑配置单.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
