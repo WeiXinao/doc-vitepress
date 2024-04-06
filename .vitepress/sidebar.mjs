@@ -1,0 +1,24 @@
+export default {
+ "/Golang/": [
+    {
+      text: 'Golang',
+      items: [
+        { text: '基础语法', link: '/Golang/Go基础' },
+        { text: 'GoWeb基础', link: '/Golang/GoWeb' },
+      ]
+    }
+  ],
+  "/Web/": [
+    {
+      text: 'Web',
+      items: [
+        { text: 'HTTPS证书校验', link: '/Web/Web开发之HTTPS证书校验' }
+    ]
+    }
+  ],
+  "/NoSQL/": [
+    {
+      text: '基础', link: '/NoSQL/Redis 基础'
+    }
+  ]
+} 

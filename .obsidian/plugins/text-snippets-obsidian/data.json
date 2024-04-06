@@ -1,0 +1,16 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\ntabs : <!-- tabs:start -->$nl$$end$$nl$<!-- tabs:end -->\nmark : <mark></mark>",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "tabs : <!-- tabs:start -->$nl$$end$$nl$<!-- tabs:end -->",
+    "mark : <mark></mark>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{},.!?;:'\"\\",
+  "isWYSIWYG": true
+}

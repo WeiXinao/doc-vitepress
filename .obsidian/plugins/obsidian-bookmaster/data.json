@@ -1,0 +1,59 @@
+{
+  "deviceSetting": {
+    "c68738dea180e83a": {
+      "deviceName": "电脑",
+      "bookVaultPaths": {
+        "00": "C:\\Users\\28408\\Desktop\\知识\\笔记\\笔记\\PDF书库"
+      },
+      "bookViewerWorkerPath": "http://192.168.0.188/bookviewer"
+    },
+    "3e14980cb3b6cd60": {
+      "deviceName": "PC",
+      "bookVaultPaths": {
+        "00": "E:\\ebook"
+      },
+      "bookViewerWorkerPath": "http://121.36.215.20/bookviewer"
+    }
+  },
+  "dataPath": "assets/bookmaster",
+  "showBookExts": [
+    "pdf",
+    "epub",
+    "txt",
+    "html",
+    "xlsx",
+    "xls",
+    "doc",
+    "docx",
+    "ppt",
+    "pptx",
+    "jpg",
+    "jpeg",
+    "png",
+    "bmp",
+    "jfif",
+    "wav",
+    "mp3",
+    "ogg",
+    "mp4"
+  ],
+  "openAllBookWithDefaultApp": false,
+  "openBookExtsWithDefaultApp": [],
+  "bookVaultNames": {
+    "00": "ebook"
+  },
+  "currentBookVault": "00",
+  "bookTreeSortType": "PATH",
+  "bookTreeSortAsc": true,
+  "documentViewerTheme": "dark",
+  "recentBookNumberLimit": 20,
+  "pinProjectFile": false,
+  "annotationAuthor": "小新",
+  "fixedAnnotationImageScale": 2,
+  "annotationTemplate": {
+    "pdf": {
+      "textAnnotation": "[{{content}}]({{url}})\n{{page}}\n{{comment}}\n\n",
+      "regionAnnotation": "![[{{img}}|{{width}}]]\n{{page}}\n{{comment}}\n\n"
+    }
+  }
+}

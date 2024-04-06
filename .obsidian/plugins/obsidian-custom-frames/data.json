@@ -1,0 +1,38 @@
+{
+  "frames": [
+    {
+      "url": "http://notes.xiaoxin.link",
+      "displayName": "小新的笔记",
+      "icon": "sticky-note",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://whimsical.com/my-files-9MYSs5E5MJn1z8h1udUqRJ",
+      "displayName": "Whimsical",
+      "icon": "frame",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://cn.bing.com/?FORM=Z9FD1",
+      "displayName": "Bing",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

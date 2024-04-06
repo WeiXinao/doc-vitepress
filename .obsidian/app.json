@@ -1,0 +1,39 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "open-with-default-app": true
+  },
+  "enabledPlugins": [],
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "./assets",
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": null,
+  "communityThemeSortOrder": "download",
+  "showInlineTitle": true
+}

@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 18,
+  "translucency": false,
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#3230c0",
+  "monospaceFontFamily": "Cousine,SF Mono,Fira Code Retina,HarmonyOS Sans",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "xin-style",
+    "TOC-beautify",
+    "yaozhuwa@CSS",
+    "AnuExtendTheme"
+  ]
+}
