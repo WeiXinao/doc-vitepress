@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f35fd0cdf144462",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.cnblogs.com/saryli/p/11371912.html#:~:text=Go 中 defer 和,return 执行的先后顺序 多个defer的执行顺序为“后进先出”； defer、return、返回值三者的执行逻辑应该是：return最先执行，return负责将结果写入返回值中；接着defer开始执行一些收尾工作；最后函数携带当前返回值退出。"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang/Go基础之return和defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang/Go基础之return和defer.md"
+              }
             }
           }
         ],
@@ -163,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -175,7 +168,7 @@
       "obsidian-bookmaster-plugin:Book Explorer": false
     }
   },
-  "active": "5f35fd0cdf144462",
+  "active": "55b2d6b7bc06fa8b",
   "lastOpenFiles": [
     "NoSQL/MongoDB_Index.md",
     "Golang/Go基础之return和defer.md",
