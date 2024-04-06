@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10985f552c346aa4",
+        "id": "f54911b28283546d",
         "type": "tabs",
         "children": [
           {
-            "id": "55b2d6b7bc06fa8b",
+            "id": "96cb6dc1c3b8be86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,11 @@
       "obsidian-bookmaster-plugin:Book Explorer": false
     }
   },
-  "active": "55b2d6b7bc06fa8b",
+  "active": "96cb6dc1c3b8be86",
   "lastOpenFiles": [
+    "读书笔记/Let's Go!.md",
+    "PrinciplesOfComputerComposition/第五章-中央处理器.md",
+    "PrinciplesOfComputerComposition/第四章-指令系统.md",
     "Golang/Go基础之return和defer.md",
     "NoSQL/MongoDB_Index.md",
     "Golang/Go基础之正则表达式.md",
@@ -180,7 +183,6 @@
     "favicon.ico",
     "Golang/Go基础.md",
     "Web/Web开发之HTTPS证书校验.md",
-    "读书笔记/Let's Go!.md",
     "logo.jpg",
     "index.md",
     "JavaEE/腾讯云部署Tomcat.md",
@@ -203,8 +205,6 @@
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Excalidraw/Drawing 2024-04-03 23.51.20.excalidraw.md",
-    "DesignPattern/访问者模式.md",
     "Excalidraw/Redis",
     "Web",
     "assets/bookmaster/book-annotations/oYyFBAXQjRHEoZVz.xml",

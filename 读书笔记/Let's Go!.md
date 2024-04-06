@@ -77,7 +77,7 @@ w.Header().Get("Cache-Control")
 
 *base.layout.tmpl*
 
-```tmpl
+```
 {{define "base"}}
 <!DOCTYPE html>
 <html lang="en">
@@ -104,7 +104,7 @@ w.Header().Get("Cache-Control")
 
 *home.page.tmpl*
 
-```tmpl
+```
 {{template "base" .}}
 
 {{define "title"}}Home{{end}}
@@ -187,7 +187,7 @@ go.sum 文件包含所需包对应的校验和，如果你打开它，你应该�
 
 *文件：go.sum*
 
-```mod
+```
 module snippetbox  
   
 go 1.21.5  
