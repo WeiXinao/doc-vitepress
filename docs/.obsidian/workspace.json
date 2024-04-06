@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcc6f812dd06b78",
+        "id": "56a32788195409b9",
         "type": "tabs",
         "children": [
           {
-            "id": "c14147139a7f8897",
+            "id": "a4ba6013b08449c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +161,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c14147139a7f8897",
+  "active": "a4ba6013b08449c3",
   "lastOpenFiles": [
+    "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
     "docs",
     "public/favicon.ico",
     "public",
@@ -210,11 +204,12 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "Excalidraw/Redis",
-    "Web",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214745_092.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214709_019.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214639_016.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230916225526_807.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/资本主义的本质及规律.excalidraw.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/第三章-认识论.excalidraw.png",
-    "考研+学校/
+    "考研+学校/政治/Excalidraw/马克思主义基本原理/Drawing 2023-09-16 21.05.25.excalidraw.png"
+  ]
+}
