@@ -7,7 +7,6 @@ export default defineConfig({
   title: "小新的博客",
   description: "A VitePress Site",
   srcDir: 'docs',
-  base: './',
   head: [['link', { rel: 'icon', href: 'docs/public/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
