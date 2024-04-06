@@ -20,11 +20,11 @@
   "folder-note-plugin",
   "obsidian-footnotes",
   "mysnippets-plugin",
-  "obsidian-git",
   "obsidian-image-auto-upload-plugin",
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
   "obsidian-bookmaster-plugin",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-git"
 ]
