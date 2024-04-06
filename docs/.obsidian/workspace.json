@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/面试/Panic时返回错误.md",
-                "mode": "preview",
+                "file": "Golang/基础/Go基础之正则表达式.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/面试/Panic时返回错误.md",
+                "file": "Golang/基础/Go基础之正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/面试/Panic时返回错误.md"
+                "file": "Golang/基础/Go基础之正则表达式.md"
               }
             }
           }
