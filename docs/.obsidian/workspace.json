@@ -11,11 +11,10 @@
             "id": "6c44be4ddd370a4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Golang/基础/Go基础之正则表达式.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/.obsidian/themes/AnuPpuccin",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/基础/Go基础之正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Golang/基础/Go基础之正则表达式.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,11 +166,11 @@
   },
   "active": "6c44be4ddd370a4f",
   "lastOpenFiles": [
+    "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试/Panic时返回错误.md",
     "Golang/面试",
     "Golang/基础/Go基础之slice扩容机制.md",
     "Golang/基础",
-    "Golang/基础/Go基础之正则表达式.md",
     "index.md",
     "public/favicon.ico",
     "public",
