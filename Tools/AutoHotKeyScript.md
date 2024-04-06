@@ -2,7 +2,7 @@
 
 ## Typora快捷输入脚本
 
-```ahk
+```plain
 ; Typora
 ; 快捷修改字号、字体颜色、字体
 ; SendInput {Text} 解决中文输入法问题

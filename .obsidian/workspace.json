@@ -177,6 +177,7 @@
   },
   "active": "5f35fd0cdf144462",
   "lastOpenFiles": [
+    "NoSQL/MongoDB_Index.md",
     "Golang/Go基础之return和defer.md",
     "Golang/Go基础之正则表达式.md",
     "Golang/Go基础之slice扩容机制.md",
