@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ea40db535e09a28f",
+        "id": "6169683da795bc4e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e18b34531b824d3",
+            "id": "d7a81bdd40126062",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Golang/基础/Go基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang/基础/Go基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang/基础/Go基础.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,14 +168,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3e18b34531b824d3",
+  "active": "d7a81bdd40126062",
   "lastOpenFiles": [
+    "Golang/基础/Go 基础之读锁写锁问题.md",
+    "Golang/基础/Go基础之返回值寻址.md",
     "Golang/基础/Go基础之命名返回值.md",
     "Golang/面试/Panic时返回错误.md",
     "NoSQL/Redis 基础.md",
     "index.md",
     "Golang/基础/Go基础.md",
-    "Golang/基础/Go 基础之读锁写锁问题.md",
     "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试",
     "Golang/基础/Go基础之slice扩容机制.md",
@@ -192,7 +201,6 @@
     "Tools/hexo博客搭建.md",
     "Tools/AWS个人信息.md",
     "Tools/API总结.md",
-    "Tools/数据库配置.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
