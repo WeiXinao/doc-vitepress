@@ -14,7 +14,7 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/favicon.ico',
+    logo: '/doc-vitepress//favicon.ico',
     search: {
       provider: 'local'
     },  
