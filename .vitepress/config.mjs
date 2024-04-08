@@ -14,7 +14,7 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/favicon.ico',
+    logo: 'https://cdn.jsdelivr.net/gh/WeiXinao/imgBed2@main/img/202404081943220.ico',
     search: {
       provider: 'local'
     },  
