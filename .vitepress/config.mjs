@@ -9,6 +9,9 @@ export default defineConfig({
   base: '/doc-vitepress/',
   srcDir: 'docs',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.ico',
