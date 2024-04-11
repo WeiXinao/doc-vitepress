@@ -35,5 +35,5 @@
   "newLinkFormat": "relative",
   "userIgnoreFilters": null,
   "communityThemeSortOrder": "download",
-  "showInlineTitle": true
+  "showInlineTitle": false
 }
