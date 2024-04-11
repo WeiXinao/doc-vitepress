@@ -46,3 +46,36 @@ go verison
 ```
 
 ## CentOS 安装 Docker
+
+在安装 [Docker](https://cloud.tencent.com/product/tke?from_column=20065&from=20065) 之前，先说一下配置，我这里是Centos7 Linux 内核：官方建议 3.10 以上，3.8以上貌似也可。
+
+注意：本文的命令使用的是 root 用户登录执行，不是 root 的话所有命令前面要加 `sudo`
+
+第一步：查看当前的内核版本
+
+```
+uname -r
+```
+
+第二步：使用 root 权限更新 yum 包（生产环境中此步操作需慎重，看自己情况，学习的话随便搞）
+
+```
+yum -y update
+```
+
+>[!NOTE]
+>yum -y update：升级所有包同时也升级软件和系统内核；​ 
+>yum -y upgrade：只升级所有包，不升级软件和系统内核
+
+第三步：卸载旧版本（如果之前安装过的话）
+
+```
+yum remove docker docker-common docker-selinux docker-engine
+```
+
+![](https://cdn.jsdelivr.net/gh/WeiXinao/imgBed2@main/img/202404111604880.png)
+
+第四步：安装需要的软件包， yum-util 提供yum-config-manager功能，另两个是devicemapper驱动依赖
+
+
+
