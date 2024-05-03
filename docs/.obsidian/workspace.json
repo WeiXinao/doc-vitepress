@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad992383842b8fd3",
+        "id": "9515254dbe0da5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a25a99aab944d0c",
+            "id": "7f3eb91f8107cc8e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Nginx/课件/Nginx 基础使用.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/课件/Nginx 基础使用.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nginx/课件/Nginx 基础使用.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,8 +161,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a25a99aab944d0c",
+  "active": "7f3eb91f8107cc8e",
   "lastOpenFiles": [
+    "Nginx/课件/Nginx 基础使用.pdf",
     "Nginx/nginx.md",
     "Golang/中间件/将Golang部署到Docker.md",
     "Golang/基础/Go爬虫.md",
@@ -199,7 +195,6 @@
     "前端/面试/计算机网络/HTTP.md",
     "DesignPattern/设计模式.md",
     "C&C++/C++PrimerPlus.md",
-    "Web/Web开发之HTTPS证书校验.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
     "favicon.ico",
