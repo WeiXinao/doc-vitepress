@@ -11,8 +11,12 @@
             "id": "7f3eb91f8107cc8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nginx/nginx.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nginx/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nginx/nginx.md"
+              }
             }
           }
         ],
@@ -163,6 +170,7 @@
   },
   "active": "7f3eb91f8107cc8e",
   "lastOpenFiles": [
+    "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
     "Nginx/nginx.md",
     "Golang/中间件/将Golang部署到Docker.md",
@@ -200,7 +208,6 @@
     "favicon.ico",
     "logo.jpg",
     "Golang/xmind/web开发.xmind",
-    "Golang/xmind/数据类型.xmind",
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
