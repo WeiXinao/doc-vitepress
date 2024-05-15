@@ -34,7 +34,7 @@ export default {
       text: '基础', link: '/NoSQL/Redis 基础'
     }
   ],
-  "/Docker/": [
+  "/中间件/": [
     {
       text: 'Docker',
       items: [
