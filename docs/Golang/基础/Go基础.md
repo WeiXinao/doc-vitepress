@@ -55,9 +55,9 @@ GOROOT：代表 go 的安装路径
 
 GOPATH：代表 go 的项目安装路径，之前必须通过 GOPATH 创建项目，现在有了模块化管理，基本上也不用了，了解即可。
 
-> [!attention]
-> 
->  使用 go mod 管理库，需要科学上网
+> [!CAUTION]
+>
+> 使用 go mod 管理库，需要科学上网
 
 #### 安装配置 git
 

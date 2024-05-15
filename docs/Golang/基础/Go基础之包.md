@@ -47,7 +47,7 @@ Go 源文件都需要在开头使用 package 声明所在包，包名告知编�
 3. 包的循环导入
 ![](https://cdn.jsdelivr.net/gh/WeiXinao/imgBed2@main/img/202312312230771.png)
 
->[!ATTENTION]
+>[!CAUTION]
 >A 包导入 B 包，B 包导入 C 包，C 包导入 A 包，会形成循环导入，编译器会报错。
 
 4. 导入形式
@@ -203,7 +203,7 @@ Go1.11 版本提供 Go modules 机制对包进行管理，同时保留 GOPATH �
 	    encoding/json
 	    github.com/gorilla/mux
 	    golang.org/x/net/html
-
+	
 	go help list for more information
 	```
 	
@@ -286,5 +286,5 @@ go test -cover -coverprofile="cover.out" ./...
 go tool cover -html .\cover.out
 ```
 
-### 基准测试
+### 
 

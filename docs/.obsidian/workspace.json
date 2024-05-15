@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "c33043f4511e6416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d4e8bdc6833008",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "gNZeRcxcHTYvWxQm"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f3eb91f8107cc8e",
+  "active": "40d4e8bdc6833008",
   "lastOpenFiles": [
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
