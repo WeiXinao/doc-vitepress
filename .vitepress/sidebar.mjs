@@ -41,8 +41,8 @@ export default {
         {
           text: '基础',
           items: [
-            { text: 'Docker入门', link: '/docs/中间件/Docker基础' },
-            { text: '使用Docker部署Golang项目', link: '/docs/中间件/将Golang部署到Docker' },
+            { text: 'Docker入门', link: '/中间件/Docker基础' },
+            { text: '使用Docker部署Golang项目', link: '/中间件/将Golang部署到Docker' },
           ]
         },
       ]
