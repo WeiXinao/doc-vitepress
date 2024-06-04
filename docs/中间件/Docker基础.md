@@ -913,8 +913,12 @@ $ docker pull registry.cn-hangzhou.aliyuncs.com/atguiguwh/myubuntu:1.1
 
 Docker Registry
 
-1. 官方Docker Hub地址：https://hub.docker.com/，中国大陆访问太慢了且准备被阿里云取代的趋势，不太主流。
+1. 官方Docker Hub地址：https://hub.docker.com/
+
+   中国大陆访问太慢了且准备被阿里云取代的趋势，不太主流。
+
 2. Dockerhub、阿里云这样的公共镜像仓库可能不太方便，涉及机密的公司不可能提供镜像给公网，所以需要创建一个本地私人仓库供给团队使用，基于公司内部项目构建镜像。
+
 3. Docker Registry是官方提供的工具，可以用于构建私有镜像仓库
 
 ### 将本地镜像推送到私有库
@@ -1071,7 +1075,7 @@ devops
 
 
 
-
+![image-20240516173012997](https://cdn.jsdelivr.net/gh/WeiXinao/imgBed2@main/img/202405161730222.png)
 
 
 
