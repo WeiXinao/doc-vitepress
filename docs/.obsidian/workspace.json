@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/nginx.md",
+                "file": "Golang/基础/Go基础之包.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/nginx.md",
+                "file": "Golang/基础/Go基础之包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/nginx.md"
+                "file": "Golang/基础/Go基础之包.md"
               }
             }
           }
@@ -170,16 +170,21 @@
   },
   "active": "7f3eb91f8107cc8e",
   "lastOpenFiles": [
+    "Golang/基础/Go基础之包.md",
+    "Golang/基础/Go基础之返回值寻址.md",
+    "Golang/基础/Go基础之结构体.md",
+    "Excalidraw/Golang/内嵌结构体指针.excalidraw.md",
+    "Excalidraw/Golang/包的循环导入.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-03 23.51.20.excalidraw.md",
+    "Nginx/nginx.md",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
-    "Nginx/nginx.md",
     "Golang/中间件/将Golang部署到Docker.md",
     "Golang/基础/Go爬虫.md",
     "Golang/中间件",
     "Golang/基础/Go基础.md",
     "Golang/基础/Go 基础之读锁写锁问题.md",
-    "Golang/基础/Go基础之返回值寻址.md",
     "Golang/基础/Go基础之命名返回值.md",
     "Golang/面试/Panic时返回错误.md",
     "NoSQL/Redis 基础.md",
@@ -200,13 +205,8 @@
     "前端/面试/JavaScript面试题/JavaScript面试题.md",
     "前端/前端路线/Node.js/Express.md",
     "前端/前端路线/Node.js/Node.js.md",
-    "前端/面试/CSS面试题/CSS面试题.md",
-    "前端/面试/计算机网络/HTTP.md",
-    "DesignPattern/设计模式.md",
-    "C&C++/C++PrimerPlus.md",
     "Android/assets/通讯录1.gif",
     "前端/Excelidraw/路由守卫.excalidraw",
-    "favicon.ico",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
