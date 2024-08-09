@@ -78,7 +78,7 @@ https://git-scm.com/download
 GOROOT 就是 go 安装的根目录，GOPATH 就是 go 项目所在的路径，高版本 go 项目已经不再依赖 gopath 来管理项目，使用 go mod 来管理项目。
 
 > 参考资料：
-> 
+>
 > - [(111条消息) 【Go报错】go go.mod file not found in current directory or any parent directory 错误解决_go: go.mod file not found in current directory or _普通网友的博客-CSDN博客](https://blog.csdn.net/m0_67401417/article/details/126080567)
 
 ### Linux 平台
@@ -116,7 +116,7 @@ helloGo：表示 module 名字，随自己喜欢
 直接在终端中输入 `go help` 即可显示所有的 go 命令以及相应命令功能简介，主要有下面这些：
 
 - build：编译包和依赖
-  
+
   ![image-20230302190530516](https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/image-20230302190530516.png)
 
 - clean：移除对象文件
@@ -124,7 +124,7 @@ helloGo：表示 module 名字，随自己喜欢
 - doc：显示包或者符号的文档
 
 - env：打印 go 的环境信息
-  
+
   ![image-20230302221638146](https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/image-20230302221638146.png)
 
 - bug：启动错误报告
@@ -132,9 +132,9 @@ helloGo：表示 module 名字，随自己喜欢
 - fix：运行 go tool fix
 
 - fmt：运行 go fmt 进行格式化
-  
+
   ![](https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/image-20230302222226886.png)
-  
+
   ![](https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/image-20230302222536495.png)
 
 - generate：从 processing source 生成 go 文件
@@ -270,32 +270,32 @@ i := 99
 
 整数各个类型
 
-| **类型** | **有无符号** | **占用存储空间** | **范围**                           | **备注** |
-|:------:|:--------:|:----------:|:--------------------------------:|:------:|
-| int8   | 有        | 1字节        | -128~127                         |        |
-| int16  | 有        | 2字节        | -2<sup>15</sup>~2<sup>15</sup>-1 |        |
-| int32  | 有        | 4字节        | -2<sup>31</sup>~2<sup>31</sup>-1 |        |
-| int64  | 有        | 8字节        | -2<sup>63</sup>~2<sup>63</sup>-1 |        |
+| **类型** | **有无符号** | **占用存储空间** |             **范围**             | **备注** |
+| :------: | :----------: | :--------------: | :------------------------------: | :------: |
+|   int8   |      有      |      1字节       |             -128~127             |          |
+|  int16   |      有      |      2字节       | -2<sup>15</sup>~2<sup>15</sup>-1 |          |
+|  int32   |      有      |      4字节       | -2<sup>31</sup>~2<sup>31</sup>-1 |          |
+|  int64   |      有      |      8字节       | -2<sup>63</sup>~2<sup>63</sup>-1 |          |
 
 int的无符号类型   
 
-| **类型** | **有无符号** | **占用存储空间** | **范围** |
-| :--- | :--- | :--- | :--- |
-| uint64 | 无 | 8字节 | -2<sup>31</sup>~2<sup>31</sup>-1 -2<sup>63</sup>~2<sup>63</sup>-1 |
-| uint8 | 无 | 1字节 | 0~255 |
-| uint16 | 无 | 2字节 | 0~2<sup>16</sup>-1 |
-| uint32 | 无 | 4字节 | 0-2<sup>32</sup>-1 |
+| **类型** | **有无符号** | **占用存储空间** | **范围**                                                     |
+| :------- | :----------- | :--------------- | :----------------------------------------------------------- |
+| uint64   | 无           | 8字节            | -2<sup>31</sup>~2<sup>31</sup>-1 -2<sup>63</sup>~2<sup>63</sup>-1 |
+| uint8    | 无           | 1字节            | 0~255                                                        |
+| uint16   | 无           | 2字节            | 0~2<sup>16</sup>-1                                           |
+| uint32   | 无           | 4字节            | 0-2<sup>32</sup>-1                                           |
 
 <img src="https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/202309131300843.png" title="" alt="image.png" data-align="center">
 
 int 的其他类型说明   
 
-| **类型** | **有无符号** | **占用存储空间**          | **表数范围**                                                          | **备注**                 |
-|:------ |:-------- |:------------------- |:----------------------------------------------------------------- |:---------------------- |
-| int    | 有        | 32位系统4个字节 64位系统8个字节 | -2<sup>31</sup>~2<sup>31</sup>-1 -2<sup>63</sup>~2<sup>63</sup>-1 |                        |
-| uint   | 无        |32位系统4个字节 64位系统8个字节| 0~2<sup>32</sup>-1 0~2<sup>64</sup>-1                             |                        |
-| rune   | 有        |与int32一样| -2<sup>31</sup>~2<sup>31</sup>-1                                  | 等价int32,表示一个Unincode编码 |
-| byte   | 无        | 与uint8等价            | 0-2<sup>32</sup>-1                                                | 要存储字符时，选用byte          |
+| **类型** | **有无符号** | **占用存储空间**                | **表数范围**                                                 | **备注**                       |
+| :------- | :----------- | :------------------------------ | :----------------------------------------------------------- | :----------------------------- |
+| int      | 有           | 32位系统4个字节 64位系统8个字节 | -2<sup>31</sup>~2<sup>31</sup>-1 -2<sup>63</sup>~2<sup>63</sup>-1 |                                |
+| uint     | 无           | 32位系统4个字节 64位系统8个字节 | 0~2<sup>32</sup>-1 0~2<sup>64</sup>-1                        |                                |
+| rune     | 有           | 与int32一样                     | -2<sup>31</sup>~2<sup>31</sup>-1                             | 等价int32,表示一个Unincode编码 |
+| byte     | 无           | 与uint8等价                     | 0-2<sup>32</sup>-1                                           | 要存储字符时，选用byte         |
 
 <img src="https://raw.githubusercontent.com/WeiXinao/imgBed2/main/img/202309131337873.png" title="" alt="image.png" data-align="center">
 
@@ -324,4 +324,43 @@ int 的其他类型说明
    ```
 
 5. bit：是计算机中的最小存储单位。byte：是计算机中的基本存储单元，1byte = 8bit。   
+
+### 内置类型
+
+#### 切片
+
+##### 子切片
+
+数组和切片都可以通过[start:end] 的形式 来获取子切片：
+
+1. arr[start:end]，获得[start, end)之间 的元素。 
+
+   ```go
+   func SubSlice() {
+   	s1 := []int{2, 4, 6, 8, 10} 
+   	// len为2，cap为4
+       s2 := s1[1:3]
+   	fmt.Printf("s2: %v, len = %d, cap=%d\n", s2, len(s2), cap(s2))
+   }
+   ```
+
+   <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/QjWrEJgWWm5dfgdQK9pazK@6HYTAunKLgTUhWja5itxbgZ9C58P1XAs5sY3oAM9vyfAPhw"></iframe>
+
+   ```
+   len: end - start
+   
+   cap: len(slice) - start
+   
+   为什么 cap 要取到最后？利用原来预留的空间。
+   ```
+
+2. arr[:end]，获得[0, end) 之间的元素。 
+
+3. arr[start:]，获得[start, len(arr))之间 的元素。
+
+> [!NOTE]
+>
+> 都是左闭右开！
+
+
 
