@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2f02658d2d4966d0",
+        "id": "2a215ceef432c338",
         "type": "tabs",
         "children": [
           {
-            "id": "7788cb64c432ffb3",
+            "id": "506207ccef914924",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "KKahvskFUAplrGef",
+                "bid": "bmmMrOUbJbqAcKhK",
                 "viewerState": {
-                  "page": 3
-                }
-              }
-            }
-          },
-          {
-            "id": "21b0b0a09c397a25",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "yOupIDWnqlIJlAbK",
-                "viewerState": {
-                  "page": 1
+                  "page": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +168,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "21b0b0a09c397a25",
+  "active": "506207ccef914924",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/bmmMrOUbJbqAcKhK.md",
+    "assets/bookmaster/book-data/yHELpsSrxoVGzzpl.md",
     "assets/bookmaster/book-data/elbONNJgWhQnOaat.md",
     "assets/bookmaster/book-data/UhcEIcweBIESLYqu.md",
     "assets/bookmaster/book-data/yOupIDWnqlIJlAbK.md",
@@ -217,10 +205,8 @@
     "index.md",
     "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试",
-    "Golang/基础/Go基础之slice扩容机制.md",
     "Golang/基础",
     "public/favicon.ico",
-    "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
