@@ -20,7 +20,7 @@
         "01": "E:\\ebook",
         "00": "E:\\ebook"
       },
-      "bookViewerWorkerPath": "http://121.36.215.20/bookviewer"
+      "bookViewerWorkerPath": "http://192.168.5.4:8083"
     }
   },
   "dataPath": "assets/bookmaster",

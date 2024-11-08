@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "53a20a85f6001e03",
+        "id": "2f02658d2d4966d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7637b39490438ce0",
+            "id": "ead52b0ef9dd8857",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "bm-book-view",
+              "state": {
+                "bid": "oYyFBAXQjRHEoZVz",
+                "viewerState": {
+                  "page": 15
+                }
+              }
+            }
+          },
+          {
+            "id": "7788cb64c432ffb3",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "KKahvskFUAplrGef",
+                "viewerState": {
+                  "page": 1
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +181,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce2c0fec2d9e2d17",
+  "active": "b5840d31aa591de9",
   "lastOpenFiles": [
+    "中间件/Kafka/kafka核心技术与实战.md",
+    "中间件/Kafka/Untitled.md",
+    "中间件/Kafka",
+    "中间件/kafka",
+    "中间件/Untitled Folder",
+    "assets/bookmaster/book-data/KKahvskFUAplrGef.md",
+    "assets/bookmaster/book-data/lTYIRIibVxvRMUAI.md",
+    "assets/bookmaster/book-data/RSTqEVAFwllUsPom.md",
     "未命名.canvas",
     "Golang/基础/Go基础之包.md",
     "Golang/基础/Go基础之返回值寻址.md",
@@ -188,18 +216,11 @@
     "Golang/基础/Go基础之slice扩容机制.md",
     "Golang/基础",
     "public/favicon.ico",
-    "public",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
-    "docs",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/3_CommonJS-Browserify模块化教程.md",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/0_node与npm(必看).md",
-    "前端/前端路线/Vue/Vue脚手架.md",
-    "前端/扩展/常用模块.md",
-    "前端/面试/JavaScript面试题/JavaScript面试题.md",
-    "前端/前端路线/Node.js/Express.md",
     "Android/assets/通讯录1.gif",
-    "前端/Excelidraw/路由守卫.excalidraw",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
     "未命名 1.canvas",
