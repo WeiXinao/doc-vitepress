@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "506207ccef914924",
+            "id": "968c844667933617",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "bmmMrOUbJbqAcKhK",
+                "bid": "gFxvgEjHnGKhnISv",
                 "viewerState": {
-                  "page": 0
+                  "page": 2
                 }
               }
             }
@@ -168,8 +168,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "506207ccef914924",
+  "active": "968c844667933617",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/gFxvgEjHnGKhnISv.md",
     "assets/bookmaster/book-data/bmmMrOUbJbqAcKhK.md",
     "assets/bookmaster/book-data/yHELpsSrxoVGzzpl.md",
     "assets/bookmaster/book-data/elbONNJgWhQnOaat.md",
@@ -203,7 +204,6 @@
     "Golang/面试/Panic时返回错误.md",
     "NoSQL/Redis 基础.md",
     "index.md",
-    "Golang/基础/Go基础之正则表达式.md",
     "Golang/面试",
     "Golang/基础",
     "public/favicon.ico",
