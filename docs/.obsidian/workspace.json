@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ead52b0ef9dd8857",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "oYyFBAXQjRHEoZVz",
-                "viewerState": {
-                  "page": 15
-                }
-              }
-            }
-          },
-          {
             "id": "7788cb64c432ffb3",
             "type": "leaf",
             "state": {
@@ -28,13 +15,12 @@
               "state": {
                 "bid": "KKahvskFUAplrGef",
                 "viewerState": {
-                  "page": 1
+                  "page": 2
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac157b449d131207",
@@ -181,8 +168,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5840d31aa591de9",
+  "active": "7788cb64c432ffb3",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/elbONNJgWhQnOaat.md",
+    "assets/bookmaster/book-data/UhcEIcweBIESLYqu.md",
+    "assets/bookmaster/book-data/yOupIDWnqlIJlAbK.md",
     "中间件/Kafka/kafka核心技术与实战.md",
     "中间件/Kafka/Untitled.md",
     "中间件/Kafka",
@@ -217,9 +207,6 @@
     "Golang/基础",
     "public/favicon.ico",
     "前端/面试/FRONT-END-NOTES/06_JS模块化/6_ES6模块化教程.md",
-    "前端/面试/FRONT-END-NOTES/06_JS模块化/3_CommonJS-Browserify模块化教程.md",
-    "前端/面试/FRONT-END-NOTES/06_JS模块化/2_CommonJS_Node模块化教程.md",
-    "前端/面试/FRONT-END-NOTES/06_JS模块化/0_node与npm(必看).md",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
