@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3082555c73d900",
+        "id": "484696036ecb33df",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8d599f56dd3b5f",
+            "id": "5031e4886a61199b",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "YWyUUDDionpYaYgB"
+                "bid": "uLlxdhjClrBmAfDU",
+                "viewerState": {
+                  "page": 3
+                }
               },
               "icon": "book",
               "title": "Empty Book"
             }
-          },
-          {
-            "id": "5d3a099d23ad3833",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5d3a099d23ad3833",
+  "active": "5031e4886a61199b",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/uLlxdhjClrBmAfDU.md",
     "assets/bookmaster/book-data/YWyUUDDionpYaYgB.md",
     "assets/bookmaster/book-data/IneJmMfVAFUSdovM.md",
     "assets/bookmaster/book-data/cxCoPqnmdtndpFTA.md",
@@ -233,7 +224,6 @@
     "Golang/中间件",
     "Golang/基础/Go基础.md",
     "Golang/基础/Go 基础之读锁写锁问题.md",
-    "Golang/基础/Go基础之命名返回值.md",
     "Golang/面试",
     "Golang/基础",
     "public/favicon.ico",
