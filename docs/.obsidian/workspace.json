@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5031e4886a61199b",
+            "id": "b903f26b1c986d8e",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "uLlxdhjClrBmAfDU",
+                "bid": "oAyneObLaAWrTMVv",
                 "viewerState": {
-                  "page": 3
+                  "page": 4
                 }
               },
               "icon": "book",
@@ -188,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5031e4886a61199b",
+  "active": "b903f26b1c986d8e",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/oAyneObLaAWrTMVv.md",
     "assets/bookmaster/book-data/uLlxdhjClrBmAfDU.md",
     "assets/bookmaster/book-data/YWyUUDDionpYaYgB.md",
     "assets/bookmaster/book-data/IneJmMfVAFUSdovM.md",
@@ -223,7 +224,6 @@
     "Golang/基础/Go爬虫.md",
     "Golang/中间件",
     "Golang/基础/Go基础.md",
-    "Golang/基础/Go 基础之读锁写锁问题.md",
     "Golang/面试",
     "Golang/基础",
     "public/favicon.ico",
