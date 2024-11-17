@@ -30,7 +30,23 @@
               "state": {
                 "bid": "YxhiZImGAxwukCrd",
                 "viewerState": {
-                  "page": 2
+                  "page": 20
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "66ffac887a9d5303",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "FKlPTdKfZDqZkKSf",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -38,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "ac157b449d131207",
@@ -204,8 +219,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65677ebd6b648d02",
+  "active": "66ffac887a9d5303",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
     "assets/bookmaster/book-data/YxhiZImGAxwukCrd.md",
     "assets/bookmaster/book-data/oAyneObLaAWrTMVv.md",
     "assets/bookmaster/book-data/uLlxdhjClrBmAfDU.md",
@@ -238,7 +254,6 @@
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
     "Golang/中间件/将Golang部署到Docker.md",
-    "Golang/基础/Go爬虫.md",
     "Golang/中间件",
     "Golang/面试",
     "Golang/基础",
