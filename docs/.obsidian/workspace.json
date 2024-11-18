@@ -40,7 +40,6 @@
           {
             "id": "66ffac887a9d5303",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -52,9 +51,21 @@
               "icon": "book",
               "title": "Empty Book"
             }
+          },
+          {
+            "id": "c38de15829b09463",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +230,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "66ffac887a9d5303",
+  "active": "c38de15829b09463",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
     "assets/bookmaster/book-data/YxhiZImGAxwukCrd.md",
