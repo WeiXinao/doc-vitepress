@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65677ebd6b648d02",
+            "id": "e9f52bd983a2dd3e",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "YxhiZImGAxwukCrd",
+                "bid": "MOLRgjDolhJmdFVZ",
                 "viewerState": {
-                  "page": 26
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -187,8 +187,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65677ebd6b648d02",
+  "active": "e9f52bd983a2dd3e",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/MOLRgjDolhJmdFVZ.md",
+    "assets/bookmaster/book-data/cvEaASFObBBfGEyR.md",
     "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
     "assets/bookmaster/book-data/YxhiZImGAxwukCrd.md",
     "assets/bookmaster/book-data/oAyneObLaAWrTMVv.md",
@@ -217,11 +219,9 @@
     "Excalidraw/Golang/内嵌结构体指针.excalidraw.md",
     "Excalidraw/Golang/包的循环导入.excalidraw.md",
     "Excalidraw/Drawing 2024-04-03 23.51.20.excalidraw.md",
-    "Nginx/nginx.md",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
-    "Golang/中间件/将Golang部署到Docker.md",
     "Golang/中间件",
     "Golang/面试",
     "Golang/基础",
