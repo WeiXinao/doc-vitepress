@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b903f26b1c986d8e",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "oAyneObLaAWrTMVv",
-                "viewerState": {
-                  "page": 42
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "65677ebd6b648d02",
             "type": "leaf",
             "state": {
@@ -30,42 +15,14 @@
               "state": {
                 "bid": "YxhiZImGAxwukCrd",
                 "viewerState": {
-                  "page": 20
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "66ffac887a9d5303",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "FKlPTdKfZDqZkKSf",
-                "viewerState": {
                   "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
-          },
-          {
-            "id": "c38de15829b09463",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac157b449d131207",
@@ -230,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c38de15829b09463",
+  "active": "65677ebd6b648d02",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
     "assets/bookmaster/book-data/YxhiZImGAxwukCrd.md",
