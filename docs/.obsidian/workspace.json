@@ -15,14 +15,62 @@
               "state": {
                 "bid": "MOLRgjDolhJmdFVZ",
                 "viewerState": {
-                  "page": 26
+                  "page": 19
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "e1b8ed2b264e7534",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "eNRQAKnToKzNnAdR",
+                "viewerState": {
+                  "page": 29
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "b5bdc0f4ad72fb2f",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "gvDGIASSCrZKOVSg",
+                "viewerState": {
+                  "page": 4
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "98cf73358ff553ba",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "oyWkwGkHfBCxJNqL",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,8 +236,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e9f52bd983a2dd3e",
+  "active": "98cf73358ff553ba",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/oyWkwGkHfBCxJNqL.md",
+    "assets/bookmaster/book-data/gvDGIASSCrZKOVSg.md",
+    "assets/bookmaster/book-data/eNRQAKnToKzNnAdR.md",
     "assets/bookmaster/book-data/MOLRgjDolhJmdFVZ.md",
     "assets/bookmaster/book-data/cvEaASFObBBfGEyR.md",
     "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
@@ -217,9 +268,6 @@
     "Golang/基础/Go基础之包.md",
     "Golang/基础/Go基础之返回值寻址.md",
     "Golang/基础/Go基础之结构体.md",
-    "Excalidraw/Golang/内嵌结构体指针.excalidraw.md",
-    "Excalidraw/Golang/包的循环导入.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-03 23.51.20.excalidraw.md",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
