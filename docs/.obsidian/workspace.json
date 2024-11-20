@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98cf73358ff553ba",
+            "id": "3e97f8fe8aa23e72",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "oyWkwGkHfBCxJNqL",
+                "bid": "KdgvqqcMEIgbXiIp",
                 "viewerState": {
-                  "page": 0
+                  "page": 3
                 }
               },
               "icon": "book",
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "ac157b449d131207",
@@ -188,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98cf73358ff553ba",
+  "active": "3e97f8fe8aa23e72",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/KdgvqqcMEIgbXiIp.md",
     "assets/bookmaster/book-data/vNdKTHgHsQUfThWK.md",
     "assets/bookmaster/book-data/oyWkwGkHfBCxJNqL.md",
     "assets/bookmaster/book-data/gvDGIASSCrZKOVSg.md",
@@ -219,7 +219,6 @@
     "assets/bookmaster/book-data/RSTqEVAFwllUsPom.md",
     "未命名.canvas",
     "Golang/基础/Go基础之包.md",
-    "Golang/基础/Go基础之返回值寻址.md",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
