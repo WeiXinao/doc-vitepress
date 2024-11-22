@@ -15,14 +15,30 @@
               "state": {
                 "bid": "HdSZXNJObDTQUPad",
                 "viewerState": {
-                  "page": 27
+                  "page": 36
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "4ba22ea39af7f7a5",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "DugeQngPdFhieMGM",
+                "viewerState": {
+                  "page": 2
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +204,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e06472c79ef3436b",
+  "active": "4ba22ea39af7f7a5",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/DugeQngPdFhieMGM.md",
     "assets/bookmaster/book-data/HdSZXNJObDTQUPad.md",
     "assets/bookmaster/book-data/KdgvqqcMEIgbXiIp.md",
     "assets/bookmaster/book-data/vNdKTHgHsQUfThWK.md",
@@ -218,7 +235,6 @@
     "中间件/Untitled Folder",
     "assets/bookmaster/book-data/KKahvskFUAplrGef.md",
     "assets/bookmaster/book-data/lTYIRIibVxvRMUAI.md",
-    "assets/bookmaster/book-data/RSTqEVAFwllUsPom.md",
     "未命名.canvas",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
