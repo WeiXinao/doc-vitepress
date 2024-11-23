@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0361812da27c526",
+            "id": "b7c9b96764d06eed",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "UhcEIcweBIESLYqu",
+                "bid": "ivObCPbDKYvMDOuO",
                 "viewerState": {
-                  "page": 1
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -188,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c0361812da27c526",
+  "active": "b7c9b96764d06eed",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/ivObCPbDKYvMDOuO.md",
     "assets/bookmaster/book-data/DugeQngPdFhieMGM.md",
     "assets/bookmaster/book-data/HdSZXNJObDTQUPad.md",
     "assets/bookmaster/book-data/KdgvqqcMEIgbXiIp.md",
@@ -218,7 +219,6 @@
     "中间件/kafka",
     "中间件/Untitled Folder",
     "assets/bookmaster/book-data/KKahvskFUAplrGef.md",
-    "assets/bookmaster/book-data/lTYIRIibVxvRMUAI.md",
     "未命名.canvas",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
