@@ -15,14 +15,30 @@
               "state": {
                 "bid": "MOLRgjDolhJmdFVZ",
                 "viewerState": {
-                  "page": 19
+                  "page": 22
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "10095431bef81fa7",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "eNRQAKnToKzNnAdR",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +203,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a55c62f4f2f521c9",
+  "active": "10095431bef81fa7",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
     "assets/bookmaster/book-data/HikafTJtgbOaLXqg.md",
