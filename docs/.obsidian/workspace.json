@@ -16,14 +16,30 @@
               "state": {
                 "bid": "brfsPQAbyeDYCOYz",
                 "viewerState": {
-                  "page": 0
+                  "page": 7
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "0c4a9a5ca1d83ef4",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "HikafTJtgbOaLXqg",
+                "viewerState": {
+                  "page": 2
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +204,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eeafc62df63e2eaa",
+  "active": "0c4a9a5ca1d83ef4",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/HikafTJtgbOaLXqg.md",
     "assets/bookmaster/book-data/brfsPQAbyeDYCOYz.md",
     "assets/bookmaster/book-data/lFTrVcFiaTiHwzqz.md",
     "assets/bookmaster/book-data/ivObCPbDKYvMDOuO.md",
@@ -215,7 +232,6 @@
     "assets/bookmaster/book-data/elbONNJgWhQnOaat.md",
     "assets/bookmaster/book-data/UhcEIcweBIESLYqu.md",
     "assets/bookmaster/book-data/yOupIDWnqlIJlAbK.md",
-    "中间件/Kafka/kafka核心技术与实战.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
