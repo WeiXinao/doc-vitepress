@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "484696036ecb33df",
+        "id": "c2ae06fa5aac28d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e06472c79ef3436b",
+            "id": "c0361812da27c526",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "HdSZXNJObDTQUPad",
-                "viewerState": {
-                  "page": 36
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "4ba22ea39af7f7a5",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "DugeQngPdFhieMGM",
+                "bid": "UhcEIcweBIESLYqu",
                 "viewerState": {
                   "page": 0
                 }
@@ -37,8 +22,7 @@
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "ac157b449d131207",
@@ -204,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4ba22ea39af7f7a5",
+  "active": "c0361812da27c526",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/DugeQngPdFhieMGM.md",
     "assets/bookmaster/book-data/HdSZXNJObDTQUPad.md",
