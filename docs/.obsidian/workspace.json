@@ -8,43 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7c9b96764d06eed",
+            "id": "eeafc62df63e2eaa",
             "type": "leaf",
+            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "ivObCPbDKYvMDOuO",
-                "viewerState": {
-                  "page": 15
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "0e6f0e631bfc6f33",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "lFTrVcFiaTiHwzqz",
-                "viewerState": {
-                  "page": 12
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "e81ebd8c578bd60a",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "elbONNJgWhQnOaat",
+                "bid": "brfsPQAbyeDYCOYz",
                 "viewerState": {
                   "page": 0
                 }
@@ -53,8 +23,7 @@
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e81ebd8c578bd60a",
+  "active": "eeafc62df63e2eaa",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/brfsPQAbyeDYCOYz.md",
     "assets/bookmaster/book-data/lFTrVcFiaTiHwzqz.md",
     "assets/bookmaster/book-data/ivObCPbDKYvMDOuO.md",
     "assets/bookmaster/book-data/DugeQngPdFhieMGM.md",
@@ -246,7 +216,6 @@
     "assets/bookmaster/book-data/UhcEIcweBIESLYqu.md",
     "assets/bookmaster/book-data/yOupIDWnqlIJlAbK.md",
     "中间件/Kafka/kafka核心技术与实战.md",
-    "中间件/Kafka/Untitled.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
