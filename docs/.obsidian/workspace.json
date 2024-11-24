@@ -10,13 +10,12 @@
           {
             "id": "87cb64fa162e8a0b",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "gvDGIASSCrZKOVSg",
                 "viewerState": {
-                  "page": 4
+                  "page": 0
                 }
               },
               "icon": "book",
