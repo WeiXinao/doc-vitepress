@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f8f48fc9eb01d44",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "MikVJPGeNsbqQvTn",
-                "viewerState": {
-                  "page": 32
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "e66501f836547172",
             "type": "leaf",
             "dimension": 50,
@@ -203,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f8f48fc9eb01d44",
+  "active": "e66501f836547172",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/MikVJPGeNsbqQvTn.md",
     "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
