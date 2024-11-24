@@ -31,15 +31,14 @@
               "state": {
                 "bid": "vNdKTHgHsQUfThWK",
                 "viewerState": {
-                  "page": 1
+                  "page": 4
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e66501f836547172",
+  "active": "4f8f48fc9eb01d44",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/MikVJPGeNsbqQvTn.md",
     "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
