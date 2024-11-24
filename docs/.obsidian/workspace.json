@@ -15,6 +15,21 @@
               "state": {
                 "bid": "gvDGIASSCrZKOVSg",
                 "viewerState": {
+                  "page": 43
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "4f8f48fc9eb01d44",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "MikVJPGeNsbqQvTn",
+                "viewerState": {
                   "page": 0
                 }
               },
@@ -22,7 +37,8 @@
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "ac157b449d131207",
@@ -188,8 +203,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "87cb64fa162e8a0b",
+  "active": "4f8f48fc9eb01d44",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/MikVJPGeNsbqQvTn.md",
     "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
     "assets/bookmaster/book-data/HikafTJtgbOaLXqg.md",
     "assets/bookmaster/book-data/brfsPQAbyeDYCOYz.md",
@@ -215,7 +231,6 @@
     "assets/bookmaster/book-data/bmmMrOUbJbqAcKhK.md",
     "assets/bookmaster/book-data/yHELpsSrxoVGzzpl.md",
     "assets/bookmaster/book-data/elbONNJgWhQnOaat.md",
-    "assets/bookmaster/book-data/UhcEIcweBIESLYqu.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
