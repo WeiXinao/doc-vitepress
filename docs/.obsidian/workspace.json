@@ -21,40 +21,8 @@
               "icon": "book",
               "title": "Empty Book"
             }
-          },
-          {
-            "id": "afde4ae509323afe",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "kfCzPfiXRVNZzzDx",
-                "viewerState": {
-                  "page": 7
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "a108c81280383cfb",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "fjKwIwjvAYBUtojT",
-                "viewerState": {
-                  "page": 0
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a108c81280383cfb",
+  "active": "bb5daf03251ab379",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/fjKwIwjvAYBUtojT.md",
     "assets/bookmaster/book-data/kfCzPfiXRVNZzzDx.md",
