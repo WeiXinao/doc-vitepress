@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9356b0dafab9e558",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "gnSGDWTMWsXESVJC",
-                "viewerState": {
-                  "page": 2
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "bb5daf03251ab379",
             "type": "leaf",
             "state": {
@@ -31,14 +15,46 @@
               "state": {
                 "bid": "hGwtlQTfliNfBfyy",
                 "viewerState": {
-                  "page": 6
+                  "page": 4
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "afde4ae509323afe",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "kfCzPfiXRVNZzzDx",
+                "viewerState": {
+                  "page": 7
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "a108c81280383cfb",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "fjKwIwjvAYBUtojT",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,8 +219,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9356b0dafab9e558",
+  "active": "a108c81280383cfb",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/fjKwIwjvAYBUtojT.md",
+    "assets/bookmaster/book-data/kfCzPfiXRVNZzzDx.md",
     "assets/bookmaster/book-data/gnSGDWTMWsXESVJC.md",
     "assets/bookmaster/book-data/hGwtlQTfliNfBfyy.md",
     "assets/bookmaster/book-data/eHJiCQAthwQmrJWu.md",
@@ -229,8 +247,6 @@
     "assets/bookmaster/book-data/eNRQAKnToKzNnAdR.md",
     "assets/bookmaster/book-data/MOLRgjDolhJmdFVZ.md",
     "assets/bookmaster/book-data/cvEaASFObBBfGEyR.md",
-    "assets/bookmaster/book-data/FKlPTdKfZDqZkKSf.md",
-    "assets/bookmaster/book-data/YxhiZImGAxwukCrd.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
