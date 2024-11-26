@@ -10,42 +10,10 @@
           {
             "id": "9656985927f92c46",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "qZtMBgzYKrBfjNmS",
-                "viewerState": {
-                  "page": 13
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "987394abbeb217bb",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "SiGnjuOImumWVkeS",
-                "viewerState": {
-                  "page": 10
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "a969f04bf59b7a8d",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "wianJltBnaXUfECc",
                 "viewerState": {
                   "page": 0
                 }
@@ -54,8 +22,7 @@
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a969f04bf59b7a8d",
+  "active": "9656985927f92c46",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/WHqkKAEwwZRwPcfv.md",
     "assets/bookmaster/book-data/wianJltBnaXUfECc.md",
     "assets/bookmaster/book-data/qZtMBgzYKrBfjNmS.md",
     "assets/bookmaster/book-data/SiGnjuOImumWVkeS.md",
@@ -247,7 +215,6 @@
     "assets/bookmaster/book-data/uLlxdhjClrBmAfDU.md",
     "assets/bookmaster/book-data/YWyUUDDionpYaYgB.md",
     "assets/bookmaster/book-data/IneJmMfVAFUSdovM.md",
-    "assets/bookmaster/book-data/cxCoPqnmdtndpFTA.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
