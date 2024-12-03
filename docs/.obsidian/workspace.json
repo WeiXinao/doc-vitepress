@@ -55,7 +55,6 @@
           {
             "id": "816f10e3a0a234b0",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -71,11 +70,26 @@
           {
             "id": "99e9b63007ccfe07",
             "type": "leaf",
-            "dimension": 25,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "DCkcOQTiPvjrpEuI",
+                "viewerState": {
+                  "page": 22
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "381ba911d8a5c3fe",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "HdSZXNJObDTQUPad",
                 "viewerState": {
                   "page": 0
                 }
@@ -85,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,8 +264,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99e9b63007ccfe07",
+  "active": "381ba911d8a5c3fe",
   "lastOpenFiles": [
+    "未命名 1.canvas",
     "assets/bookmaster/book-data/YmHMtVIjXmPLnykU.md",
     "assets/bookmaster/book-data/DCkcOQTiPvjrpEuI.md",
     "assets/bookmaster/book-data/fjKwIwjvAYBUtojT.md",
@@ -277,7 +292,6 @@
     "assets/bookmaster/book-data/vNdKTHgHsQUfThWK.md",
     "assets/bookmaster/book-data/oyWkwGkHfBCxJNqL.md",
     "assets/bookmaster/book-data/gvDGIASSCrZKOVSg.md",
-    "assets/bookmaster/book-data/eNRQAKnToKzNnAdR.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
@@ -292,7 +306,6 @@
     "Android/assets/通讯录1.gif",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
-    "未命名 1.canvas",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214745_092.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214709_019.png",
     "考研+学校/政治/Excalidraw/马克思主义基本原理/assets/Pasted Image 20230925214639_016.png",
