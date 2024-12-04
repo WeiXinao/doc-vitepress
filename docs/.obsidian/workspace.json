@@ -31,7 +31,7 @@
               "state": {
                 "bid": "NjmengSKZpRMxiYg",
                 "viewerState": {
-                  "page": 0
+                  "page": 12
                 }
               },
               "icon": "book",
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac157b449d131207",
