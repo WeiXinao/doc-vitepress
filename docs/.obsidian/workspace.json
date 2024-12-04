@@ -8,113 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1bdc6ebbc5ad22d",
+            "id": "8b1e7fd4a81a6a33",
             "type": "leaf",
+            "dimension": 14.285714285714286,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "YmHMtVIjXmPLnykU",
+                "bid": "DugeQngPdFhieMGM",
                 "viewerState": {
-                  "page": 24
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "2401a70b779a3c85",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "KdgvqqcMEIgbXiIp",
-                "viewerState": {
-                  "page": 26
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "a5ecd7f902e034cb",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "HdSZXNJObDTQUPad",
-                "viewerState": {
-                  "page": 36
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "816f10e3a0a234b0",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "YmHMtVIjXmPLnykU",
-                "viewerState": {
-                  "page": 27
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "99e9b63007ccfe07",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "DCkcOQTiPvjrpEuI",
-                "viewerState": {
-                  "page": 22
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "381ba911d8a5c3fe",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "HdSZXNJObDTQUPad",
-                "viewerState": {
-                  "page": 35
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "bd3130a0ea77bdce",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "NjmengSKZpRMxiYg",
-                "viewerState": {
-                  "page": 0
+                  "page": 29
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd3130a0ea77bdce",
+  "active": "8b1e7fd4a81a6a33",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/NjmengSKZpRMxiYg.md",
     "未命名 1.canvas",
