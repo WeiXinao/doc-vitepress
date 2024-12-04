@@ -88,14 +88,33 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "HdSZXNJObDTQUPad"
+                "bid": "HdSZXNJObDTQUPad",
+                "viewerState": {
+                  "page": 35
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "bd3130a0ea77bdce",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "NjmengSKZpRMxiYg",
+                "viewerState": {
+                  "page": 0
+                }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,8 +279,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "381ba911d8a5c3fe",
+  "active": "bd3130a0ea77bdce",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/NjmengSKZpRMxiYg.md",
     "未命名 1.canvas",
     "assets/bookmaster/book-data/YmHMtVIjXmPLnykU.md",
     "assets/bookmaster/book-data/DCkcOQTiPvjrpEuI.md",
