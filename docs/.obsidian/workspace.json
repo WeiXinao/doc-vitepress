@@ -16,14 +16,30 @@
               "state": {
                 "bid": "DugeQngPdFhieMGM",
                 "viewerState": {
-                  "page": 29
+                  "page": 13
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "57c4401b535eae12",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "NjmengSKZpRMxiYg",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b1e7fd4a81a6a33",
+  "active": "57c4401b535eae12",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/NjmengSKZpRMxiYg.md",
     "未命名 1.canvas",
