@@ -8,68 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b71e3f4ab78041e",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "wInUYfjoXnVWHuyr",
-                "viewerState": {
-                  "page": 25
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "f6e717de685d5ee0",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "mnPNucUuMYCVXKwX",
-                "viewerState": {
-                  "page": 30
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "766adff31775a10e",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "XziNHWUMBySpffXC",
-                "viewerState": {
-                  "page": 0
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "c1f8f4ce31d72ef0",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "XziNHWUMBySpffXC",
                 "viewerState": {
-                  "page": 4
+                  "page": 6
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
