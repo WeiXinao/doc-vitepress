@@ -13,10 +13,7 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "XziNHWUMBySpffXC",
-                "viewerState": {
-                  "page": 6
-                }
+                "bid": "XziNHWUMBySpffXC"
               },
               "icon": "book",
               "title": "Empty Book"
