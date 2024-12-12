@@ -10,7 +10,6 @@
           {
             "id": "bd1821676718a843",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -29,10 +28,7 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "xAkmEkqYXeaGuznL",
-                "viewerState": {
-                  "page": 0
-                }
+                "bid": "xAkmEkqYXeaGuznL"
               },
               "icon": "book",
               "title": "Empty Book"
