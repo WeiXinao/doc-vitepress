@@ -10,20 +10,51 @@
           {
             "id": "c6ec9a0523b978b5",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "kxrTZIJgPTxibajX",
                 "viewerState": {
-                  "page": 5
+                  "page": 0
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "d0f9b329d1634493",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "TvjFOtCdOaqnznyW",
+                "viewerState": {
+                  "page": 4
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "eeb321efb1be47e5",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "AACjOTYIHgSDMCvN",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +219,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5840d31aa591de9",
+  "active": "eeb321efb1be47e5",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/AACjOTYIHgSDMCvN.md",
+    "assets/bookmaster/book-data/TvjFOtCdOaqnznyW.md",
     "assets/bookmaster/book-data/kxrTZIJgPTxibajX.md",
     "assets/bookmaster/book-data/xAkmEkqYXeaGuznL.md",
     "assets/bookmaster/book-data/MDZKnCyejYtzKvqv.md",
@@ -215,8 +248,6 @@
     "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
     "assets/bookmaster/book-data/HikafTJtgbOaLXqg.md",
     "assets/bookmaster/book-data/brfsPQAbyeDYCOYz.md",
-    "assets/bookmaster/book-data/lFTrVcFiaTiHwzqz.md",
-    "assets/bookmaster/book-data/ivObCPbDKYvMDOuO.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
