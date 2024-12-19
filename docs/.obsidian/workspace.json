@@ -30,7 +30,23 @@
               "state": {
                 "bid": "HOJwhzvnxBgTPDkQ",
                 "viewerState": {
-                  "page": 0
+                  "page": 15
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "7d3f22b5cbc50ab2",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "vhlfPJmEkfkOQZUT",
+                "viewerState": {
+                  "page": 8
                 }
               },
               "icon": "book",
@@ -205,6 +221,7 @@
   },
   "active": "c14c80a238be25a9",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/vhlfPJmEkfkOQZUT.md",
     "assets/bookmaster/book-data/HOJwhzvnxBgTPDkQ.md",
     "assets/bookmaster/book-data/mBJRdTzksPwDUXsR.md",
     "assets/bookmaster/book-data/LQZSsiWzseRZUIOf.md",
@@ -231,7 +248,6 @@
     "assets/bookmaster/book-data/wianJltBnaXUfECc.md",
     "assets/bookmaster/book-data/qZtMBgzYKrBfjNmS.md",
     "assets/bookmaster/book-data/SiGnjuOImumWVkeS.md",
-    "assets/bookmaster/book-data/FVqkrAEOGJXojHCH.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
