@@ -40,7 +40,6 @@
           {
             "id": "eeb321efb1be47e5",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -56,7 +55,6 @@
           {
             "id": "570579dff7e5f804",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -72,14 +70,10 @@
           {
             "id": "8b234a676a4fc3f2",
             "type": "leaf",
-            "dimension": 25,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "LQZSsiWzseRZUIOf",
-                "viewerState": {
-                  "page": 0
-                }
+                "bid": "LQZSsiWzseRZUIOf"
               },
               "icon": "book",
               "title": "Empty Book"
