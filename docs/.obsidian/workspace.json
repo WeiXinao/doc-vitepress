@@ -8,79 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6ec9a0523b978b5",
+            "id": "b724d2b861edcdbb",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "kxrTZIJgPTxibajX",
+                "bid": "mBJRdTzksPwDUXsR",
                 "viewerState": {
-                  "page": 0
+                  "page": 2
                 }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "d0f9b329d1634493",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "TvjFOtCdOaqnznyW",
-                "viewerState": {
-                  "page": 4
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "eeb321efb1be47e5",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "AACjOTYIHgSDMCvN",
-                "viewerState": {
-                  "page": 16
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "570579dff7e5f804",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "brCknOQOszmUXEZn",
-                "viewerState": {
-                  "page": 17
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "8b234a676a4fc3f2",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "LQZSsiWzseRZUIOf"
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b234a676a4fc3f2",
+  "active": "b724d2b861edcdbb",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/mBJRdTzksPwDUXsR.md",
     "assets/bookmaster/book-data/LQZSsiWzseRZUIOf.md",
     "assets/bookmaster/book-data/brCknOQOszmUXEZn.md",
     "assets/bookmaster/book-data/AACjOTYIHgSDMCvN.md",
@@ -273,7 +216,6 @@
     "assets/bookmaster/book-data/SiGnjuOImumWVkeS.md",
     "assets/bookmaster/book-data/FVqkrAEOGJXojHCH.md",
     "assets/bookmaster/book-data/MikVJPGeNsbqQvTn.md",
-    "assets/bookmaster/book-data/JykXRUFAvvtdAbKT.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
