@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7d433502d458fc85",
+        "id": "a2fd3b26677cf34a",
         "type": "tabs",
         "children": [
           {
-            "id": "980e29591378bd0e",
+            "id": "73f3fe4e67a78a9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "023e525a1c7daa34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbe000c77e59cae",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "dDFWXaKBTfpHlRHF",
+                "bid": "DUbooHiVhkmWePlJ",
                 "viewerState": {
                   "page": 0
                 }
@@ -187,8 +203,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "980e29591378bd0e",
+  "active": "cfbe000c77e59cae",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/DUbooHiVhkmWePlJ.md",
     "assets/bookmaster/book-data/dDFWXaKBTfpHlRHF.md",
     "assets/bookmaster/book-data/stUmhWqfcIrYUwCq.md",
     "assets/bookmaster/book-data/kHPqLNJFOxVCzSXZ.md",
@@ -215,7 +232,6 @@
     "assets/bookmaster/book-data/hGwtlQTfliNfBfyy.md",
     "assets/bookmaster/book-data/eHJiCQAthwQmrJWu.md",
     "assets/bookmaster/book-data/uXMXmYpgyEeEfhqA.md",
-    "assets/bookmaster/book-data/WHqkKAEwwZRwPcfv.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
