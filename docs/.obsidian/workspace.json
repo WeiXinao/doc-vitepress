@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9cf1b2fa7cfa10",
+        "id": "137ca4688255e86b",
         "type": "tabs",
         "children": [
           {
-            "id": "44833f20f06bfe25",
+            "id": "ce59d3053dd7f13f",
             "type": "leaf",
             "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "TJcmYmzhpbsCGmDn"
-              },
-              "icon": "book",
-              "title": "Empty Book"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -184,7 +182,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "44833f20f06bfe25",
+  "active": "ce59d3053dd7f13f",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/TJcmYmzhpbsCGmDn.md",
     "assets/bookmaster/book-data/DUbooHiVhkmWePlJ.md",
