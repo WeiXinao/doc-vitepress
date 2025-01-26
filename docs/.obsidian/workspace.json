@@ -4,121 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a37cbccb700e953",
+        "id": "9ae0ae1f1998c507",
         "type": "tabs",
         "children": [
           {
-            "id": "343c07d874fbd379",
+            "id": "6fb4fee4ce020696",
             "type": "leaf",
             "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "kfCzPfiXRVNZzzDx",
-                "viewerState": {
-                  "page": 7
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "5402492d8f69db25",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "fjKwIwjvAYBUtojT",
-                "viewerState": {
-                  "page": 7
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "0f25530f9082f162",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "qvAtdnvMwfZUXFbk",
-                "viewerState": {
-                  "page": 7
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "0ae5cb953c6b4301",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "MQbxDTDnWWlrfyaV",
-                "viewerState": {
-                  "page": 8
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "81e7ba6542694ab7",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "wryObyDBAQEAVJDg",
-                "viewerState": {
-                  "page": 10
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "e477f0d1bc1c41ef",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "jyYLnUiUMUPqcXPA",
-                "viewerState": {
-                  "page": 0
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "08937e3fcb65ebea",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "vdqLJYoUDbqbwuKk",
-                "viewerState": {
-                  "page": 0
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +182,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "08937e3fcb65ebea",
+  "active": "6fb4fee4ce020696",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/oxaLBKfoEQvyqyHa.md",
     "assets/bookmaster/book-data/vdqLJYoUDbqbwuKk.md",
     "assets/bookmaster/book-data/jyYLnUiUMUPqcXPA.md",
     "assets/bookmaster/book-data/wryObyDBAQEAVJDg.md",
@@ -311,7 +211,6 @@
     "assets/bookmaster/book-data/NjmengSKZpRMxiYg.md",
     "未命名 1.canvas",
     "assets/bookmaster/book-data/YmHMtVIjXmPLnykU.md",
-    "assets/bookmaster/book-data/DCkcOQTiPvjrpEuI.md",
     "中间件/Kafka",
     "中间件/kafka",
     "中间件/Untitled Folder",
