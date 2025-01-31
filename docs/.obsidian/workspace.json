@@ -13,22 +13,7 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "dDFWXaKBTfpHlRHF",
-                "viewerState": {
-                  "page": 17
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "d534d3f66486867c",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "JkwdVMVQzTAKfXJb"
+                "bid": "dDFWXaKBTfpHlRHF"
               },
               "icon": "book",
               "title": "Empty Book"
@@ -41,14 +26,17 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "JkwdVMVQzTAKfXJb"
+                "bid": "JkwdVMVQzTAKfXJb",
+                "viewerState": {
+                  "page": 38
+                }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
