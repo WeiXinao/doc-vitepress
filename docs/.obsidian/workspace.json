@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27433007688e6841",
+        "id": "8a3192dfb74cf4db",
         "type": "tabs",
         "children": [
           {
-            "id": "425ed1b072ce17e4",
+            "id": "867b8f483fab4223",
             "type": "leaf",
-            "dimension": 50,
             "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "JkwdVMVQzTAKfXJb",
-                "viewerState": {
-                  "page": 47
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -188,8 +182,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "425ed1b072ce17e4",
+  "active": "867b8f483fab4223",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/gEVIzNHrmzmTCksK.md",
     "assets/bookmaster/book-annotations/JkwdVMVQzTAKfXJb.xml",
     "计算机网络/图解TCPIP.md",
     "计算机网络/Untitled.md",
@@ -227,7 +222,6 @@
     "Golang/xmind/Redis.xmind",
     "Nginx/课件/Nginx 基础使用.pdf",
     "Golang/中间件",
-    "Golang/面试",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
