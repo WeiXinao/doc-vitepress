@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62f649bdc479521f",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "dDFWXaKBTfpHlRHF"
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "425ed1b072ce17e4",
             "type": "leaf",
             "dimension": 50,
@@ -28,7 +16,22 @@
               "state": {
                 "bid": "JkwdVMVQzTAKfXJb",
                 "viewerState": {
-                  "page": 38
+                  "page": 47
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "4e55ba35218f2bd8",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "izZYOwByYyjkurfk",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -201,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "425ed1b072ce17e4",
+  "active": "4e55ba35218f2bd8",
   "lastOpenFiles": [
     "assets/bookmaster/book-annotations/JkwdVMVQzTAKfXJb.xml",
     "计算机网络/图解TCPIP.md",
