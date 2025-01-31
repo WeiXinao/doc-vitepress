@@ -28,17 +28,27 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "JkwdVMVQzTAKfXJb",
-                "viewerState": {
-                  "page": 23
-                }
+                "bid": "JkwdVMVQzTAKfXJb"
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "425ed1b072ce17e4",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "JkwdVMVQzTAKfXJb"
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,8 +213,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d534d3f66486867c",
+  "active": "425ed1b072ce17e4",
   "lastOpenFiles": [
+    "assets/bookmaster/book-annotations/JkwdVMVQzTAKfXJb.xml",
     "计算机网络/图解TCPIP.md",
     "计算机网络/Untitled.md",
     "计算机网络",
@@ -232,7 +243,6 @@
     "assets/bookmaster/book-data/brCknOQOszmUXEZn.md",
     "assets/bookmaster/book-data/AACjOTYIHgSDMCvN.md",
     "assets/bookmaster/book-data/TvjFOtCdOaqnznyW.md",
-    "assets/bookmaster/book-data/kxrTZIJgPTxibajX.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
