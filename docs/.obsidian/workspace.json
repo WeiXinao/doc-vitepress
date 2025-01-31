@@ -22,24 +22,8 @@
               "icon": "book",
               "title": "Empty Book"
             }
-          },
-          {
-            "id": "4e55ba35218f2bd8",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "izZYOwByYyjkurfk",
-                "viewerState": {
-                  "page": 0
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e55ba35218f2bd8",
+  "active": "425ed1b072ce17e4",
   "lastOpenFiles": [
     "assets/bookmaster/book-annotations/JkwdVMVQzTAKfXJb.xml",
     "计算机网络/图解TCPIP.md",
