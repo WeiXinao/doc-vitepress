@@ -13,22 +13,29 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "gEVIzNHrmzmTCksK"
+                "bid": "gEVIzNHrmzmTCksK",
+                "viewerState": {
+                  "page": 34
+                }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           },
           {
-            "id": "b0c6f166ca3b4c56",
+            "id": "890131e6f4fffec6",
             "type": "leaf",
+            "dimension": 50,
             "state": {
-              "type": "release-notes",
+              "type": "bm-book-view",
               "state": {
-                "currentVersion": "1.8.3"
+                "bid": "jyYLnUiUMUPqcXPA",
+                "viewerState": {
+                  "page": 1
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "book",
+              "title": "Empty Book"
             }
           }
         ],
@@ -197,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b0c6f166ca3b4c56",
+  "active": "890131e6f4fffec6",
   "lastOpenFiles": [
     "assets/bookmaster/book-annotations/gEVIzNHrmzmTCksK.xml",
     "计算机网络/图解HTTP.md",
