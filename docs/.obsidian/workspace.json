@@ -25,7 +25,6 @@
           {
             "id": "890131e6f4fffec6",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -41,7 +40,6 @@
           {
             "id": "0dff46cc6e9406d0",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
@@ -57,21 +55,29 @@
           {
             "id": "750f15e1bdc114e5",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "fJGBguwpRjEuEYUw",
-                "viewerState": {
-                  "page": 0
-                }
+                "bid": "fJGBguwpRjEuEYUw"
               },
               "icon": "book",
               "title": "Empty Book"
             }
+          },
+          {
+            "id": "4628dfa40ad62f28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +242,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "750f15e1bdc114e5",
+  "active": "4628dfa40ad62f28",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/fJGBguwpRjEuEYUw.md",
     "assets/bookmaster/book-data/tLGivqFQVktGrKDF.md",
