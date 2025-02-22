@@ -30,15 +30,14 @@
               "state": {
                 "bid": "rvoNUCpDWSMNydog",
                 "viewerState": {
-                  "page": 0
+                  "page": 11
                 }
               },
               "icon": "book",
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7fc641e81fb65906",
+  "active": "a105ce6c5f854b6e",
   "lastOpenFiles": [
     "assets/bookmaster/book-data/rvoNUCpDWSMNydog.md",
     "assets/bookmaster/book-data/vQxFaGxpzntHEBVf.md",
