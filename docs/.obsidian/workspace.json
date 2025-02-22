@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1740f4d4831e9871",
+        "id": "5584a751775a9a00",
         "type": "tabs",
         "children": [
           {
-            "id": "22d2df42a63a54c6",
+            "id": "a105ce6c5f854b6e",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "gEVIzNHrmzmTCksK",
+                "bid": "vQxFaGxpzntHEBVf",
                 "viewerState": {
-                  "page": 34
+                  "page": 1
                 }
               },
               "icon": "book",
@@ -23,61 +23,22 @@
             }
           },
           {
-            "id": "890131e6f4fffec6",
+            "id": "7fc641e81fb65906",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "jyYLnUiUMUPqcXPA",
+                "bid": "rvoNUCpDWSMNydog",
                 "viewerState": {
-                  "page": 9
+                  "page": 0
                 }
               },
               "icon": "book",
               "title": "Empty Book"
-            }
-          },
-          {
-            "id": "0dff46cc6e9406d0",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "tLGivqFQVktGrKDF",
-                "viewerState": {
-                  "page": 12
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "750f15e1bdc114e5",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "fJGBguwpRjEuEYUw"
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "4628dfa40ad62f28",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,8 +203,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4628dfa40ad62f28",
+  "active": "7fc641e81fb65906",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/rvoNUCpDWSMNydog.md",
+    "assets/bookmaster/book-data/vQxFaGxpzntHEBVf.md",
     "assets/bookmaster/book-data/fJGBguwpRjEuEYUw.md",
     "assets/bookmaster/book-data/tLGivqFQVktGrKDF.md",
     "assets/bookmaster/book-annotations/gEVIzNHrmzmTCksK.xml",
@@ -272,8 +235,6 @@
     "assets/bookmaster/book-data/kHPqLNJFOxVCzSXZ.md",
     "assets/bookmaster/book-data/vhlfPJmEkfkOQZUT.md",
     "assets/bookmaster/book-data/HOJwhzvnxBgTPDkQ.md",
-    "assets/bookmaster/book-data/mBJRdTzksPwDUXsR.md",
-    "assets/bookmaster/book-data/LQZSsiWzseRZUIOf.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
