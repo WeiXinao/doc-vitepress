@@ -15,6 +15,21 @@
               "state": {
                 "bid": "iOaNSaBqfVbitSGG",
                 "viewerState": {
+                  "page": 3
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "9422f9a04f44b48e",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "VtdPqDFyENSvPaYq",
+                "viewerState": {
                   "page": 0
                 }
               },
@@ -22,7 +37,8 @@
               "title": "Empty Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +203,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb5368698463d3e9",
+  "active": "9422f9a04f44b48e",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/VtdPqDFyENSvPaYq.md",
     "assets/bookmaster/book-data/iOaNSaBqfVbitSGG.md",
     "assets/bookmaster/book-data/rvoNUCpDWSMNydog.md",
     "assets/bookmaster/book-data/vQxFaGxpzntHEBVf.md",
@@ -218,7 +235,6 @@
     "assets/bookmaster/book-data/dDFWXaKBTfpHlRHF.md",
     "assets/bookmaster/book-data/stUmhWqfcIrYUwCq.md",
     "assets/bookmaster/book-data/kHPqLNJFOxVCzSXZ.md",
-    "assets/bookmaster/book-data/vhlfPJmEkfkOQZUT.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
