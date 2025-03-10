@@ -28,10 +28,7 @@
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "VtdPqDFyENSvPaYq",
-                "viewerState": {
-                  "page": 0
-                }
+                "bid": "VtdPqDFyENSvPaYq"
               },
               "icon": "book",
               "title": "Empty Book"
