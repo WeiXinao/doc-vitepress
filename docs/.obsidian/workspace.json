@@ -22,8 +22,24 @@
               "icon": "book",
               "title": "Empty Book"
             }
+          },
+          {
+            "id": "c7c8747c40e70793",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "ihLWNreHXaXurrPu",
+                "viewerState": {
+                  "page": 0
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +204,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a789125a90ea9e1",
+  "active": "c7c8747c40e70793",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/ihLWNreHXaXurrPu.md",
     "assets/bookmaster/book-annotations/oiAqINqxSKWvCmEM.xml",
     "assets/bookmaster/book-data/oiAqINqxSKWvCmEM.md",
     "assets/bookmaster/book-data/ASAgABWhDyRfGocd.md",
@@ -227,7 +244,6 @@
     "未命名.canvas",
     "Golang/xmind/Docker与微服务实战2022.xmind",
     "Golang/xmind/Redis.xmind",
-    "Nginx/课件/Nginx 基础使用.pdf",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
     "DataStructure/assets/plus.jpg",
