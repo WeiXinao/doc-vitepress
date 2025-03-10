@@ -46,7 +46,7 @@
               "state": {
                 "bid": "bhwqlEikpCBKfzjZ",
                 "viewerState": {
-                  "page": 0
+                  "page": 20
                 }
               },
               "icon": "book",
@@ -221,6 +221,7 @@
   },
   "active": "fc110da4609a168e",
   "lastOpenFiles": [
+    "assets/bookmaster/book-annotations/bhwqlEikpCBKfzjZ.xml",
     "assets/bookmaster/book-data/bhwqlEikpCBKfzjZ.md",
     "assets/bookmaster/book-annotations/mvWfzCrTatvTvaaa.xml",
     "assets/bookmaster/book-data/mvWfzCrTatvTvaaa.md",
@@ -254,7 +255,6 @@
     "assets/bookmaster/book-data/MlnVTEcjlpugImuI.md",
     "assets/bookmaster/book-data/QwocauBRTRiKbTHP.md",
     "assets/bookmaster/book-data/FrbhGveiwKplNbRO.md",
-    "assets/bookmaster/book-data/jjMjRleuqhjhLkmH.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
