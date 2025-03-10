@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a789125a90ea9e1",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "oiAqINqxSKWvCmEM",
-                "viewerState": {
-                  "page": 2
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "c7c8747c40e70793",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "ihLWNreHXaXurrPu",
-                "viewerState": {
-                  "page": 8
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
             "id": "0c960eb9433c9a26",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "bm-book-view",
               "state": {
                 "bid": "fBODdZcCPEBuvWUl",
                 "viewerState": {
-                  "page": 17
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -55,15 +23,30 @@
             }
           },
           {
-            "id": "3bc9a2b964c0e757",
+            "id": "a35f245b07611781",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "rOROzeDitJatzwaY",
+                "bid": "mvWfzCrTatvTvaaa",
                 "viewerState": {
-                  "page": 3
+                  "page": 0
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "fc110da4609a168e",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "bhwqlEikpCBKfzjZ",
+                "viewerState": {
+                  "page": 0
                 }
               },
               "icon": "book",
@@ -236,8 +219,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c960eb9433c9a26",
+  "active": "fc110da4609a168e",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/bhwqlEikpCBKfzjZ.md",
+    "assets/bookmaster/book-annotations/mvWfzCrTatvTvaaa.xml",
+    "assets/bookmaster/book-data/mvWfzCrTatvTvaaa.md",
+    "Golang/面试/Redis.md",
+    "Golang/面试/Untitled.md",
     "assets/bookmaster/book-data/rOROzeDitJatzwaY.md",
     "assets/bookmaster/book-annotations/fBODdZcCPEBuvWUl.xml",
     "assets/bookmaster/book-data/fBODdZcCPEBuvWUl.md",
@@ -267,14 +255,9 @@
     "assets/bookmaster/book-data/QwocauBRTRiKbTHP.md",
     "assets/bookmaster/book-data/FrbhGveiwKplNbRO.md",
     "assets/bookmaster/book-data/jjMjRleuqhjhLkmH.md",
-    "assets/bookmaster/book-data/oxaLBKfoEQvyqyHa.md",
-    "assets/bookmaster/book-data/vdqLJYoUDbqbwuKk.md",
-    "assets/bookmaster/book-data/jyYLnUiUMUPqcXPA.md",
-    "assets/bookmaster/book-data/wryObyDBAQEAVJDg.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
-    "中间件/Untitled Folder",
     "未命名.canvas",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
