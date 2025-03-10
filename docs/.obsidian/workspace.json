@@ -8,60 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb5368698463d3e9",
+            "id": "4a789125a90ea9e1",
             "type": "leaf",
+            "dimension": 25,
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "iOaNSaBqfVbitSGG",
-                "viewerState": {
-                  "page": 3
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "413640689f10a64e",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "cCyfIwtvAhwmjmnp",
-                "viewerState": {
-                  "page": 15
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "28e4e466b7fb0d23",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "TpoOzIMIFbwBncgA",
-                "viewerState": {
-                  "page": 16
-                }
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "2a6a1819fa3c143f",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "ASAgABWhDyRfGocd",
+                "bid": "oiAqINqxSKWvCmEM",
                 "viewerState": {
                   "page": 0
                 }
@@ -70,8 +23,7 @@
               "title": "Empty Book"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a6a1819fa3c143f",
+  "active": "4a789125a90ea9e1",
   "lastOpenFiles": [
+    "assets/bookmaster/book-data/oiAqINqxSKWvCmEM.md",
     "assets/bookmaster/book-data/ASAgABWhDyRfGocd.md",
     "assets/bookmaster/book-data/TpoOzIMIFbwBncgA.md",
     "assets/bookmaster/book-data/cCyfIwtvAhwmjmnp.md",
@@ -267,7 +220,6 @@
     "assets/bookmaster/book-data/MQbxDTDnWWlrfyaV.md",
     "assets/bookmaster/book-data/qvAtdnvMwfZUXFbk.md",
     "assets/bookmaster/book-data/TJcmYmzhpbsCGmDn.md",
-    "assets/bookmaster/book-data/DUbooHiVhkmWePlJ.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "中间件/kafka",
