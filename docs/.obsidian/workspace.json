@@ -16,7 +16,22 @@
               "state": {
                 "bid": "bhwqlEikpCBKfzjZ",
                 "viewerState": {
-                  "page": 20
+                  "page": 23
+                }
+              },
+              "icon": "book",
+              "title": "Empty Book"
+            }
+          },
+          {
+            "id": "ad0a757ea6483427",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "fBODdZcCPEBuvWUl",
+                "viewerState": {
+                  "page": 32
                 }
               },
               "icon": "book",
