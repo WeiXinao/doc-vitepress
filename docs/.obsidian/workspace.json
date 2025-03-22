@@ -16,7 +16,7 @@
               "state": {
                 "bid": "bhwqlEikpCBKfzjZ",
                 "viewerState": {
-                  "page": 23
+                  "page": 8
                 }
               },
               "icon": "book",
@@ -205,12 +205,12 @@
   },
   "active": "46b9c8f80e44f6e2",
   "lastOpenFiles": [
+    "Golang/面试/Untitled.md",
     "assets/bookmaster/book-annotations/bhwqlEikpCBKfzjZ.xml",
     "assets/bookmaster/book-data/bhwqlEikpCBKfzjZ.md",
     "assets/bookmaster/book-annotations/mvWfzCrTatvTvaaa.xml",
     "assets/bookmaster/book-data/mvWfzCrTatvTvaaa.md",
     "Golang/面试/Redis.md",
-    "Golang/面试/Untitled.md",
     "assets/bookmaster/book-data/rOROzeDitJatzwaY.md",
     "assets/bookmaster/book-annotations/fBODdZcCPEBuvWUl.xml",
     "assets/bookmaster/book-data/fBODdZcCPEBuvWUl.md",
@@ -241,7 +241,6 @@
     "assets/bookmaster/book-data/FrbhGveiwKplNbRO.md",
     "未命名 1.canvas",
     "中间件/Kafka",
-    "中间件/kafka",
     "未命名.canvas",
     "Android/assets/通讯录1.gif",
     "logo.jpg",
