@@ -42,4 +42,8 @@
 10. MySQL 的索引下推是什么？
 
     [索引下推](obsidian://bookmaster?type=open-book&bid=bhwqlEikpCBKfzjZ&aid=c6581ebd-1952-1e41-6c05-b87336be6027&page=20)
+    
+    https://ask.csdn.net/questions/1095456
+    
+    https://www.cnblogs.com/three-fighter/p/15246577.html
 
