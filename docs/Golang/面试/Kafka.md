@@ -38,6 +38,11 @@
    的AR集合列表（Replicas）为[1,2,0]，那么分区 0 的优先副本即为 1。理想情况下，优先副
    本就是该分区的 leader 副本，所以也可以称之为 preferred leader。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=08ee8bef-4943-c714-8b39-46f4ccd485e0&page=146)
 
+   [在实际生产环境中，一般使用 path-to-json-file 参数来分批、手动地执行优先副本
+   的选举操作。尤其是在应对大规模的 Kafka 集群时，理应杜绝采用非 path-to-json-file
+   参数的选举操作方式。同时，优先副本的选举操作也要注意避开业务高峰期，以免带来性能方
+   面的负面影响。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=abe6fe26-8abe-b620-feb6-c050ed6caa83&page=149)
+
 6. Kafka 是如何保证消息顺序性的？在什么场景下顺序性是必须的？
 
-   
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027670668406786#heading-0
