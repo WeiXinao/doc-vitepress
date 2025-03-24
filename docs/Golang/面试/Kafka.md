@@ -58,6 +58,12 @@
    这样也会影响整体的吞吐。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=52eed087-e702-7f88-657b-47c3adfac1e7&page=55)
    https://www.cnblogs.com/yangms/p/14445307.html
 
+   [消息顺序性：顾名思义，消息顺序性是指保证消息有序。这个功能有一个很常见的应用场景就是 CDC（Change Data Chapture），以MySQL 为例，如果其传输的 binlog 的顺序出错，比](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=31cfbb3d-df9f-3893-677f-509cf6920ce3&page=408)[如原本是先对一条数据加 1，然后乘以 2，发送错序之后就变成了先乘以 2 后加 1 了，造成了数据不一致。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=a869cb37-9344-b023-fe10-734ade3ada8d&page=409)
+
 7. Kafka 的消息是如何持久化的？它默认的存储机制是什么？
+
+8. 在 Kafka 中，如何创建一个 Topic？可以通过哪些方式管理 Topic?
+
+   
 
    
