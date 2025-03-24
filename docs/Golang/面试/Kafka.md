@@ -33,6 +33,12 @@
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027670433525762#heading-0
 
+   [为了能够有效地治理负载失衡的情况，Kafka 引入了优先副本（preferred replica）的概念。
+   所谓的优先副本是指在 AR 集合列表中的第一个副本。比如上面主题 topic-partitions 中分区 0
+   的AR集合列表（Replicas）为[1,2,0]，那么分区 0 的优先副本即为 1。理想情况下，优先副
+   本就是该分区的 leader 副本，所以也可以称之为 preferred leader。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=08ee8bef-4943-c714-8b39-46f4ccd485e0&page=146)
+   
+
 6. Kafka 是如何保证消息顺序性的？在什么场景下顺序性是必须的？
 
    
