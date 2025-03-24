@@ -46,3 +46,18 @@
 6. Kafka 是如何保证消息顺序性的？在什么场景下顺序性是必须的？
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027670668406786#heading-0
+
+   [Kafka 可以保证同一个分区中的消息是有序的。如果生产者按照一定的顺序发送消息，那
+   么这些消息也会顺序地写入分区，进而消费者也可以按照同样的顺序消费它们。对于某些应用
+   来说，顺序性非常重要，比如MySQL 的 binlog 传输，如果出现错误就会造成非常严重的后果。
+   如果将 acks 参数配置为非零值，并且 max.in.flight.requests.per.connection 参数
+   配置为大于 1 的值，那么就会出现错序的现象：如果第一批次消息写入失败，而第二批次消息
+   写入成功，那么生产者会重试发送第一批次的消息，此时如果第一批次的消息写入成功，那么
+   这两个批次的消息就出现了错序。一般而言，在需要保证消息顺序的场合建议把参数
+   max.in.flight.requests.per.connection 配置为 1，而不是把 acks 配置为 0，不过
+   这样也会影响整体的吞吐。](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=52eed087-e702-7f88-657b-47c3adfac1e7&page=55)
+   https://www.cnblogs.com/yangms/p/14445307.html
+
+7. Kafka 的消息是如何持久化的？它默认的存储机制是什么？
+
+   
