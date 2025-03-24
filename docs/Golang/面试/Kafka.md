@@ -33,4 +33,6 @@
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027670433525762#heading-0
 
+6. Kafka 是如何保证消息顺序性的？在什么场景下顺序性是必须的？
+
    
