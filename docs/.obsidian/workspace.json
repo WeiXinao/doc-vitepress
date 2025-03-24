@@ -15,7 +15,7 @@
               "state": {
                 "bid": "YWTEdUtRlloIhgin",
                 "viewerState": {
-                  "page": 32
+                  "page": 16
                 }
               },
               "icon": "book",
@@ -190,6 +190,7 @@
   },
   "active": "9b1667aa7ed1e2f6",
   "lastOpenFiles": [
+    "assets/bookmaster/book-annotations/YWTEdUtRlloIhgin.xml",
     "Golang/面试/Kafka.md",
     "Golang/面试/Untitled.md",
     "assets/bookmaster/book-data/YWTEdUtRlloIhgin.md",
@@ -224,7 +225,6 @@
     "计算机网络",
     "Untitled Folder",
     "assets/bookmaster/book-data/JkwdVMVQzTAKfXJb.md",
-    "assets/bookmaster/book-data/MlnVTEcjlpugImuI.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "未命名.canvas",

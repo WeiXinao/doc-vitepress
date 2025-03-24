@@ -8,3 +8,5 @@
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027669749854210#heading-0
 
+   [基本概念](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=40c21eaf-7fea-059e-f32b-5cfb47585a05&page=14)
+   
