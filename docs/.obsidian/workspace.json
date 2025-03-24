@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "863e4bceace79bee",
+        "id": "50a96d35cd07c3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "46b9c8f80e44f6e2",
+            "id": "9b1667aa7ed1e2f6",
             "type": "leaf",
             "state": {
               "type": "bm-book-view",
               "state": {
-                "bid": "bhwqlEikpCBKfzjZ"
-              },
-              "icon": "book",
-              "title": "Empty Book"
-            }
-          },
-          {
-            "id": "ad0a757ea6483427",
-            "type": "leaf",
-            "state": {
-              "type": "bm-book-view",
-              "state": {
-                "bid": "fBODdZcCPEBuvWUl",
+                "bid": "YWTEdUtRlloIhgin",
                 "viewerState": {
-                  "page": 32
+                  "page": 14
                 }
               },
               "icon": "book",
@@ -199,9 +187,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "46b9c8f80e44f6e2",
+  "active": "9b1667aa7ed1e2f6",
   "lastOpenFiles": [
+    "Golang/面试/Kafka.md",
     "Golang/面试/Untitled.md",
+    "assets/bookmaster/book-data/YWTEdUtRlloIhgin.md",
+    "assets/bookmaster/book-data/rstmcDpKfMMuHQrW.md",
     "assets/bookmaster/book-annotations/bhwqlEikpCBKfzjZ.xml",
     "assets/bookmaster/book-data/bhwqlEikpCBKfzjZ.md",
     "assets/bookmaster/book-annotations/mvWfzCrTatvTvaaa.xml",
@@ -233,8 +224,6 @@
     "Untitled Folder",
     "assets/bookmaster/book-data/JkwdVMVQzTAKfXJb.md",
     "assets/bookmaster/book-data/MlnVTEcjlpugImuI.md",
-    "assets/bookmaster/book-data/QwocauBRTRiKbTHP.md",
-    "assets/bookmaster/book-data/FrbhGveiwKplNbRO.md",
     "未命名 1.canvas",
     "中间件/Kafka",
     "未命名.canvas",
