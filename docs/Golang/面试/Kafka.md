@@ -11,3 +11,9 @@
    [基本概念](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=40c21eaf-7fea-059e-f32b-5cfb47585a05&page=14)
 
 3. Kafka 的 Topic 是什么？它的作用是什么？
+
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027669959569409
+
+4. Kafka 中的 Producer 和 Consumer 分别是什么角色？它们如何进行消息的生产和消费？
+
+   
