@@ -28,3 +28,9 @@
 4. Kafka 中的 Producer 和 Consumer 分别是什么角色？它们如何进行消息的生产和消费？
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027670194450434
+
+5. 在 Kafka 中，Partition 是什么？Partition 的划分对性能有什么影响？
+
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027670433525762#heading-0
+
+   
