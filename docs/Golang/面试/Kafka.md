@@ -70,7 +70,7 @@
 
    https://www.mianshiya.com/bank/1837027669393338369/question/1837027671167528962#heading-0
 
-   
+   [主题与分区](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=39f578eb-58bf-02db-b4cd-cac868205230&page=110)
 
 9. Kafka 的 Offset 是什么？如何追踪消息的消费进度？
 
