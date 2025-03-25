@@ -72,6 +72,10 @@
 
    [创建主题](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=e53952c5-4210-ee35-cb21-d72bb5eda146&page=111)
 
+   [初识 KafkaAdminClient](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=e9501ca2-d434-2cad-b3f8-3b2a4d41e934&page=138)
+
 9. Kafka 的 Offset 是什么？如何追踪消息的消费进度？
 
-   
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027671406604289#heading-0
+
+10. Kafka 中的 Consumer Group 是什么？它在消息消费中起到什么作用？
