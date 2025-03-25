@@ -62,6 +62,10 @@
 
 7. Kafka 的消息是如何持久化的？它默认的存储机制是什么？
 
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027670911676418#heading-0
+
+   [5.5 磁盘存储](obsidian://bookmaster?type=open-book&bid=YWTEdUtRlloIhgin&aid=e41de45e-d348-9234-2f3b-6d1bb37d7857&page=205)
+
 8. 在 Kafka 中，如何创建一个 Topic？可以通过哪些方式管理 Topic?
 
    
