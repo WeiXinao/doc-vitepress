@@ -68,6 +68,10 @@
 
 8. 在 Kafka 中，如何创建一个 Topic？可以通过哪些方式管理 Topic?
 
+   https://www.mianshiya.com/bank/1837027669393338369/question/1837027671167528962#heading-0
+
    
+
+9. Kafka 的 Offset 是什么？如何追踪消息的消费进度？
 
    
